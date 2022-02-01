@@ -1,0 +1,252 @@
+{
+  "sections": {
+    "1636011126d2c47b6d": {
+      "type": "HTML-columns",
+      "blocks": {
+        "1636011126d2c47b6d-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin:-40px 20px -60px 20px\">\n<h1>Exercises for stretching the back and neck<\/h1>\n<p>Do you suffer from neck pain or tensions in shoulders and back? In collaboration with chiropractor and clinic owner Michael Justad from JustHealth, we've put together 5 easy exercises in the video below that you can do at the office or at home. It only takes five minutes.<\/p>\n<\/div>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1636011126d2c47b6d-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "163600963681aed54c": {
+      "type": "featured-video",
+      "blocks": {
+        "163600963681aed54c-0": {
+          "type": "video",
+          "settings": {
+            "video_cover_image": "shopify:\/\/shop_images\/Cover_video.jpg",
+            "video_url": "https:\/\/youtu.be\/RneagSabx9o",
+            "animated_button": false
+          }
+        }
+      },
+      "block_order": [
+        "163600963681aed54c-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "16363589409f6f02aa": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Working_posture_1296x1296_59735df1-5921-4654-b09f-d3ed0a07c639.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Optimise your sitting posture at the office",
+        "text": "<p>If you suffer from neck, shoulder or back tension because<br\/>you have a mainly sedentary job, these 5 relaxation exercises will help you relieve and prevent tension in your everyday life. It may also be useful to look at ways of optimising your posture when sitting at a desk.<\/p><p><\/p><p><strong>Follow these tips for correct posture at your desk:<\/strong><\/p><p>• Sit with your back straight, push your pelvis in and pull back your shoulders. Viewed from the side, the spine should be in an S-curve.<\/p><p>• Legs and knees should be at a 90 degree angle or more.<\/p><p>• Both elbows should rest on desk or armrest at right angles to body, allowing shoulders to relax.<\/p><p>• The computer screen should be at eye level.<\/p><p>• Change your working position frequently and alternate between standing and sitting.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "163636123033606d35": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Bestsellers",
+        "subtitle": "",
+        "section_style": "section-default",
+        "home_featured_products": "all-products",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "16363636370262f21e": {
+      "type": "HTML-columns",
+      "blocks": {
+        "16363636370262f21e-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin-top:-30px\">\n<h2>Posture correcting products for office work<\/h2>\n<p>At Anodyne®, we offer products for posture correction, relaxation and general body health. Our products aim to support the body and increase posture awareness in daily life as well as relieve pain and tension to increase quality of life.<\/p>\n<p><\/p>\n<\/div>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16363636370262f21e-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "163636091562f8a855": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Lumbar_c11868fc-7190-4e78-aa22-9a4864ce69a5.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Relieve back and lower back with Shoulder Brace or Lumbar Belt",
+        "text": "<p>Our backs are particularly vulnerable when we sit down a<br\/>lot, which is why it can be beneficial to take the strain off our backs and<br\/>shoulders during the working day. At Anodyne® we offer a range of back support<br\/>products, including our shoulder supports and lumbar belt. Both products are<br\/>ideal tools for preventing and treating pain and tension, and they act as aids<br\/>to support and relieve musculature when an acute need arises.<\/p><p>Our Shoulder Braces helps improve posture as long as you are<br\/>wearing the product and can be used for pain and tension in the neck, shoulders<br\/>and upper back. The shoulder blades are pulled back into place, relieving<br\/>pressure on the shoulders and upper back. The lumbar belt is ideal if you<br\/>suffer from pain or tension in the lower back. The lumbar belt reduce pressure<br\/>on the muscles and helps improve posture around the lumbar region.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "View selection",
+        "button_link": "shopify:\/\/collections\/back-support"
+      }
+    },
+    "1636360953a3f8a06e": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Posture_shirt_50577ff9-27b6-4174-a89d-b92352e1a6ed.jpg",
+        "section_style": "section-default",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Prevent postural strain with a posture correcting shirt",
+        "text": "<p>Optimal posture when sitting down can, in the vast majority of cases, prevent pain or tension in the neck and back. However it can be difficult to constantly remember to straighten up. If you need help to remember to straighten up, our Posture Shirt™ is an ideal choice. The integrated support bands on the back, called NeuroBands™, gently tug on the shoulders to remind you to pull them back into place. In this way the Posture Shirt™ acts as a reminder, making it easier to remember to straighten your back throughout the day and make good posture a habit.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "View selection",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "163636096212911faf": {
+      "type": "featured-row",
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Pillow.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Optimise sitting posture with ergonomic products",
+        "text": "<p>We also offer a range of products that specifically helps with your posture at the desk, including our BackJoy Posture+, Support Seat and Back Pillow. All products help to prevent lower back pain and tension, which can easily occur in a primarily sedentary job.<\/p><p>The products provides good lumbar support, reduces pressure on the lower back muscles and brings out the natural lumbar sway by pushing the pelvis forward. Use the products at your desk, dining table, on the sofa, in the car, and anywhere else you need extra lumbar support.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "View selection",
+        "button_link": "\/collections\/rygstoette\/"
+      }
+    }
+  },
+  "order": [
+    "1636011126d2c47b6d",
+    "163600963681aed54c",
+    "16363589409f6f02aa",
+    "163636123033606d35",
+    "16363636370262f21e",
+    "163636091562f8a855",
+    "1636360953a3f8a06e",
+    "163636096212911faf"
+  ]
+}

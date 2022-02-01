@@ -1,0 +1,1601 @@
+{
+  "current": {
+    "sticky_header": true,
+    "sticky_announcement_bar": true,
+    "hero_header": false,
+    "height_header": 100,
+    "height_header_mobile": 70,
+    "icon": "material-icons",
+    "grid_product_truncate": false,
+    "collection_grid_card": false,
+    "collection_grid_products_count": false,
+    "collection_grid_animation": true,
+    "collection_grid_button_style": "",
+    "word_count": 33,
+    "show_currency_selector": false,
+    "localization_position": "header",
+    "newsletter_name": false,
+    "newsletter_optin": false,
+    "section_height": "small",
+    "section_height_mobile": "small",
+    "border_radius": 1,
+    "button_padding_x": 30,
+    "button_padding_y": 15,
+    "top_button_mobile": true,
+    "top_button_position": "right",
+    "page_wrapper": "1248",
+    "payment_icon_size": 24,
+    "sale_type": "percentage",
+    "zindex_drawer": "999",
+    "cart_notes_enable": false,
+    "color_announcement_bg": "#444444",
+    "color_nav_text": "#252525",
+    "color_default": "#f7f7f7",
+    "color_headings": "#252525",
+    "color_body_text": "#353535",
+    "color_primary": "#398e82",
+    "color_secondary": "#398e82",
+    "color_accent": "#f48400",
+    "color_drawer_bg": "#f7f7f7",
+    "color_drawer_default": "#eaeaea",
+    "color_drawer_border": "#e7e7e7",
+    "color_drawer_text": "#444444",
+    "color_drawer_primary": "#398e82",
+    "color_drawer_button_text": "#eaeaea",
+    "color_drawer_secondary": "#398e82",
+    "color_drawer_input": "#ffffff",
+    "color_drawer_error_text": "#f48400",
+    "color_drawer_sales_price": "#f48400",
+    "color_drawer_overlay": "#202020",
+    "color_drawer_overlay_opacity": 35,
+    "color_footer_default": "#bbe4e1",
+    "color_footer_primary": "#398e82",
+    "color_footer_secondary": "#398e82",
+    "color_footer_sales_price": "#398e82",
+    "color_overlay": "#252525",
+    "color_transparent_nav_text": "#f7f7f7",
+    "opacity_overlay": 16,
+    "favicon": "shopify:\/\/shop_images\/Favicon_08d030ad-355c-4928-9bc1-3e1e6a150b4e.png",
+    "social_facebook_link": "https:\/\/www.facebook.com\/activeposture.co.uk\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/activeposture.co.uk\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCFLDlWEPVUrvsuNjVt6sXJg",
+    "header_family": "poppins_n4",
+    "header_font_size": 32,
+    "header_font_size_big": 50,
+    "header_spacing": 0.1,
+    "accent_spacing": 0.1,
+    "button_uppercase": true,
+    "base_family": "avenir_next_n4",
+    "base_font_size": 15,
+    "custom_quantity_breaks": true,
+    "dbtfy_back_in_stock": true,
+    "dbtfy_cart_countdown": false,
+    "dbtfy_cart_favicon": false,
+    "dbtfy_collection_addtocart": false,
+    "dbtfy_collection_filters": false,
+    "dbtfy_color_swatches": true,
+    "dbtfy_cookie_box": false,
+    "dbtfy_custom_currencies": false,
+    "dbtfy_delivery_time": false,
+    "dbtfy_inactive_tab_message": false,
+    "dbtfy_instagram_feed": false,
+    "dbtfy_inventory_quantity": false,
+    "dbtfy_live_view": false,
+    "dbtfy_mega_menu": true,
+    "dbtfy_newsletter_popup": false,
+    "dbtfy_order_feedback": false,
+    "dbtfy_order_tracking": false,
+    "dbtfy_product_tabs": true,
+    "dbtfy_quantity_breaks": false,
+    "dbtfy_quick_view": false,
+    "dbtfy_recently_viewed": false,
+    "dbtfy_sales_countdown": false,
+    "dbtfy_sales_pop": false,
+    "dbtfy_shop_protect": false,
+    "dbtfy_skip_cart": false,
+    "dbtfy_size_chart": false,
+    "synced_variant_image": false,
+    "dbtfy_wish_list": false,
+    "dbtfy_addtocart_animation_type": "pulse",
+    "dbtfy_addtocart_animation_interval": 15,
+    "dbtfy_agree_text": "<p>I accept the terms and conditions<\/p>",
+    "dbtfy_agree_warning_text": "<p>You must accept our terms and conditions<\/p>",
+    "dbtfy_agree_order_title": "I accept the terms and conditions",
+    "dbtfy_back_in_stock_richtext": "<p>Notify me when the product is back in stock<\/p>",
+    "dbtfy_back_in_stock_btn": "Notify me",
+    "dbtfy_back_in_stock_btn_animation": true,
+    "dbtfy_back_in_stock_success": "<p>We will send you an e-mail as soon as the product is back in stock<\/p>",
+    "dbtfy_back_in_stock_body_prefix": "Notify me when",
+    "dbtfy_back_in_stock_body_suffix": "is available again -",
+    "dbtfy_cart_discount_label": "Discount code or gift card?",
+    "dbtfy_cart_discount_placeholder": "Enter the code here",
+    "dbtfy_cart_discount_apply_button_label": "Redeem code",
+    "nlify_cart_notification": "Have you chosen the right size? Remember to check the size guide before purchasing.",
+    "dbtfy_cart_goal_before_text": "Still",
+    "dbtfy_cart_goal_amount": "0",
+    "dbtfy_cart_goal_after_text": "to go for free shipping!",
+    "dbtfy_cart_goal_reached_text": "Free shipping",
+    "dbtfy_cart_discount_savings_label": "Total savings",
+    "dbtfy_cookie_box_text": "<p>Anodyne ApS bruger cookies til at indsamle statistik, der kan være med til at forbedre brugeroplevelsen samt til at målrette markedsføring. Cookies er vigtige for at vores website vises korrekt i din browser. Hvis du klikker 'Accepter' eller klikker på et link på vores website, accepterer du samtidig vores cookie- og persondatapolitik. <\/p><p><a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Læs mere om vores persondatapolitik og brug af cookies<\/a><\/p>",
+    "dbtfy_cookie_box_button_label": "Acceptér cookies",
+    "dbtfy_inactive_tab_message_text_first": "👕 up to 50% off",
+    "dbtfy_inactive_tab_message_text_second": "👕 Anodyne discounts",
+    "dbtfy_inventory_quantity_threshold": 20,
+    "dbtfy_menu_bar_link_list": "main-menu",
+    "dbtfy_menu_bar_mobile": false,
+    "dbtfy_menu_bar_desktop": false,
+    "dbtfy_newsletter_floating_bar": false,
+    "dbtfy_floating_bar_text": "",
+    "dbtfy_newsletter_popup_title": "SAVE 10% extra on your purchase",
+    "dbtfy_newsletter_popup_text": "<p>Sign up to our newsletter and get a <strong>10% DISCOUNT CODE<\/strong> for your purchase.<\/p>",
+    "dbtfy_newsletter_popup_close": "No thanks",
+    "dbtfy_newsletter_popup_title_success": "Thanks for subscribing to our newsletter!",
+    "dbtfy_newsletter_popup_text_success": "<p>Copy the code and add it to your order at check out to enjoy 10% off your purchase.<\/p>",
+    "dbtfy_newsletter_popup_reward_button": "Use the discount code",
+    "dbtfy_newsletter_popup_discount_name": "R6QG38",
+    "dbtfy_newsletter_popup_discount_amount": "10",
+    "dbtfy_order_feedback_select_title": "Where did you find us?",
+    "dbtfy_order_feedback_default_options": "Choose an option",
+    "dbtfy_order_feedback_select_options": "Physiotherapist, Social Media, Google, Chiropractor, Friend\/Family",
+    "dbtfy_order_feedback_error_message": "Choose an option",
+    "dbtfy_order_feedback_other_option": "Other",
+    "dbtfy_order_feedback_other_placeholder": "Please elaborate",
+    "dbtfy_order_feedback_error_message_other": "Please elaborate",
+    "dbtfy_order_feedback_title": "Where did you find us?",
+    "dbtfy_order_feedback_other_title": "Where did you find us? (other)",
+    "dbtfy_recently_viewed_title": "Recently viewed",
+    "dbtfy_smart_search_products": "Products",
+    "dbtfy_smart_search_collections": "Collections",
+    "dbtfy_smart_search_articles": "Articles",
+    "dbtfy_smart_search_pages": "Pages",
+    "dbtfy_smart_search_all": "Show all results",
+    "dbtfy_social_discount_link": "Share and receive 10% off",
+    "dbtfy_social_discount_popup_title": "Share and receive 10% off",
+    "dbtfy_social_discount_popup_text": "Share with your friends and receive 10% off",
+    "dbtfy_social_discount_reward_title": "Thanks for sharing",
+    "dbtfy_social_discount_reward_text": "<p>Copy the discount code below and add it to the discount code field in the shopping cart<\/p>",
+    "dbtfy_social_discount_reward_button": "Redeem discount",
+    "dbtfy_social_discount_reward_code": "20GWS15",
+    "dbtfy_social_discount_reward_amount": "10",
+    "dbtfy_trust_badge_text": "Easy, fast and secure payment",
+    "dbtfy_wish_list_add_text": "Add to wishlist",
+    "dbtfy_wish_list_remove_text": "Remove from wishlist",
+    "dbtfy_wish_list_empty_text": "Empty wishlist",
+    "dbtfy_wish_list_share_label": "Share wishlist",
+    "checkout_logo_image": "shopify:\/\/shop_images\/ActivePosture_black_small_0bc66f58-9391-4f3c-ba3c-900420d39a5a.png",
+    "checkout_logo_size": "medium",
+    "checkout_accent_color": "#398e82",
+    "checkout_button_color": "#398e82",
+    "custom_inventory_quantity": true,
+    "sections": {
+      "dbtfy-upsell-popup": {
+        "type": "dbtfy-upsell-popup",
+        "settings": {
+          "dbtfy_upsell_popup_width": "",
+          "dbtfy_upsell_popup_description": "See product details",
+          "dbtfy_upsell_popup_cart": "No thanks",
+          "dbtfy_upsell_popup_checkout": "Go to checkout →",
+          "text_alignment": "text-center",
+          "dbtfy_upsell_popup_range": 75
+        }
+      },
+      "dbtfy-quantity-breaks": {
+        "type": "dbtfy-quantity-breaks",
+        "blocks": {
+          "3ecae9fd-6b11-4a20-84b1-0e99e2faaaa2": {
+            "type": "product-break",
+            "settings": {
+              "product_break_show_on_product_page": true,
+              "product_break_visibility": "collection",
+              "product_break_collection": "posture-shirt",
+              "product_break_types": "",
+              "product_break_tags": "",
+              "product_break_product": "",
+              "product_break_range_1": 2,
+              "product_break_discount_code_1": "Test2",
+              "product_break_discount_amount_1": "10",
+              "product_break_discount_type_1": "$",
+              "product_break_range_2": 3,
+              "product_break_discount_code_2": "Test3",
+              "product_break_discount_amount_2": "12",
+              "product_break_discount_type_2": "$",
+              "product_break_range_3": 2,
+              "product_break_discount_code_3": "",
+              "product_break_discount_amount_3": "",
+              "product_break_discount_type_3": "%",
+              "product_break_range_4": 2,
+              "product_break_discount_code_4": "",
+              "product_break_discount_amount_4": "",
+              "product_break_discount_type_4": "%",
+              "product_break_range_5": 2,
+              "product_break_discount_code_5": "",
+              "product_break_discount_amount_5": "",
+              "product_break_discount_type_5": "%"
+            }
+          },
+          "8893dfdd-3b93-46ae-af01-1c25d217f5fc": {
+            "type": "cart-break",
+            "settings": {
+              "cart_break_range": 2,
+              "cart_break_discount_code": "",
+              "cart_break_discount_amount": "",
+              "cart_break_discount_type": "%"
+            }
+          }
+        },
+        "block_order": [
+          "3ecae9fd-6b11-4a20-84b1-0e99e2faaaa2",
+          "8893dfdd-3b93-46ae-af01-1c25d217f5fc"
+        ],
+        "settings": {
+          "dbtfy_quantity_breaks_text": "test",
+          "dbtfy_quantity_breaks_single_text": "Buy _COUNT_: _PRICE_ _SAVED_AMOUNT_",
+          "dbtfy_quantity_breaks_price_type": "total_price",
+          "dbtfy_quantity_breaks_more_discount_text_before": "Add",
+          "dbtfy_quantity_breaks_more_discount_text_after": "more item to unlock",
+          "dbtfy_quantity_breaks_more_discount_text_after_percentage": "off",
+          "dbtfy_quantity_breaks_highest_discount_text": "Highest discount applied!"
+        }
+      },
+      "dbtfy-cart-upsell": {
+        "type": "dbtfy-cart-upsell",
+        "settings": {
+          "dbtfy_cart_upsell_button_style": "btn--primary"
+        }
+      },
+      "dbtfy-color-swatches": {
+        "type": "dbtfy-color-swatches",
+        "settings": {}
+      },
+      "dbtfy-bullet-points": {
+        "type": "dbtfy-bullet-points",
+        "settings": {
+          "dbtfy_bullet_points_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-sales-countdown": {
+        "type": "dbtfy-sales-countdown",
+        "settings": {
+          "dbtfy_sales_countdown_icons": "local_fire_department",
+          "dbtfy_sales_countdown_prefix": "Sale ends in",
+          "dbtfy_sales_countdown_suffix": "",
+          "dbtfy_sales_countdown_d": "d",
+          "dbtfy_sales_countdown_h": "h",
+          "dbtfy_sales_countdown_m": "m",
+          "dbtfy_sales_countdown_s": "s"
+        }
+      },
+      "dbtfy-delivery-time": {
+        "type": "dbtfy-delivery-time",
+        "settings": {
+          "dbtfy_delivery_time_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-size-chart": {
+        "type": "dbtfy-size-chart",
+        "settings": {
+          "dbtfy_size_chart_icon": "straighten",
+          "dbtfy_size_chart_title": "Size chart",
+          "dbtfy_size_chart_width": "large"
+        }
+      },
+      "drawer-menu": {
+        "type": "drawer-menu",
+        "settings": {
+          "drawer_link_toggle": true,
+          "email": true,
+          "phone": true,
+          "show_social_medias": true,
+          "title": "Menu",
+          "drawer_top_link_list": "mobile-menu",
+          "drawer_bottom_link_list": "customer-service-mobil-menu"
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "blocks": {
+          "announcement-0": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p><a href=\"https:\/\/www.activeposture.co.uk\/pages\/game\" title=\"https:\/\/www.activeposture.co.uk\/pages\/game\">Spin the wheel and get a discount! <span style=\"text-decoration:underline\"><strong>CLICK HERE<\/strong><\/span><\/a><\/p>",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-0"
+        ],
+        "settings": {
+          "show_announcement": true,
+          "show_social": false,
+          "email": true,
+          "phone": true,
+          "left_message": "",
+          "right_message": "<p><a href=\"\/pages\/contact-us\" target=\"_blank\" title=\"\/pages\/contact-us\">Contact us<\/a><\/p>",
+          "announcement_autoplayspeed": 5
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "main_menu_link_list": "main-menu",
+          "navigation_type": "right",
+          "header_font_size": 13,
+          "logo_link": true,
+          "default_logo": "shopify:\/\/shop_images\/ActivePosture_black_large_7fae0e6b-a151-4b24-bda2-3a27db1ef112.png",
+          "mobile_logo": "shopify:\/\/shop_images\/ActivePosture_black_medium_69f4f618-3398-4c62-9820-76bdee3b08a1.png",
+          "default_logo_svg": "",
+          "inverted_logo_svg": "",
+          "mobile_logo_svg": "",
+          "logo_width": 200,
+          "logo_mobile_width": 150
+        }
+      },
+      "dbtfy-instagram-feed": {
+        "type": "dbtfy-instagram-feed",
+        "settings": {
+          "dbtfy_instagram_feed_icon": false,
+          "dbtfy_instagram_feed_access_token": "",
+          "dbtfy_instagram_feed_resolution": "low_resolution",
+          "dbtfy_instagram_feed_full_width": false,
+          "title": "From our Instagram",
+          "subtitle": "",
+          "dbtfy_instagram_feed_section_style": "section-border",
+          "dbtfy_instagram_feed_rows": "1",
+          "dbtfy_instagram_feed_desktop_grid": "6",
+          "dbtfy_instagram_feed_mobile_grid": "3"
+        }
+      },
+      "guarantee": {
+        "type": "guarantee",
+        "blocks": {
+          "guarantee-0": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Returns.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>30 days return policy<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-1": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Truck.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Fast delivery with Royal Mail<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-2": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Smile2.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>100% satisfaction guarantee<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "bb764f80-013b-4d19-89ae-5e332eb782cf": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Checkmark.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Free return & exchange<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": "shopify:\/\/pages\/contact-us"
+            }
+          }
+        },
+        "block_order": [
+          "guarantee-0",
+          "guarantee-1",
+          "guarantee-2",
+          "bb764f80-013b-4d19-89ae-5e332eb782cf"
+        ],
+        "settings": {
+          "show_guarantee": true,
+          "guarantee_size": "lg",
+          "section_style": "section-default"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "column_width": 1,
+              "title": "Categories",
+              "subtitle": "",
+              "footer_link_list": "footer"
+            }
+          },
+          "0bf661af-2d67-4ed7-9f1e-750e2c09c74e": {
+            "type": "link_list",
+            "settings": {
+              "column_width": 1,
+              "title": "ActivePosture®",
+              "subtitle": "",
+              "footer_link_list": "activeposture-menu"
+            }
+          },
+          "045bae48-bfff-4e04-a080-14a99dbf2e0c": {
+            "type": "text",
+            "settings": {
+              "column_width": 1,
+              "svg": "",
+              "img_url": "",
+              "logo_width": 150,
+              "title": "Contact",
+              "subtitle": "",
+              "text": "<p>ActivePosture.co.uk<\/p><p><strong>Mon. - Fri:<\/strong> 9am. - 9pm.<\/p><p><strong>Sat. - Sun:<\/strong> 8am. - 2pm.<br\/><\/p>",
+              "email": true,
+              "phone": true
+            }
+          },
+          "38aab7d5-4020-4b5d-aa34-5f065cd7a210": {
+            "type": "html",
+            "settings": {
+              "column_width": 1,
+              "title": "Socials",
+              "subtitle": "",
+              "facebook_link": "https:\/\/www.facebook.com\/activeposture.co.uk\/",
+              "youtube_link": "https:\/\/www.youtube.com\/channel\/UCFLDlWEPVUrvsuNjVt6sXJg\/videos",
+              "insta_link": "https:\/\/www.instagram.com\/activeposture.co.uk"
+            }
+          }
+        },
+        "block_order": [
+          "footer-1",
+          "0bf661af-2d67-4ed7-9f1e-750e2c09c74e",
+          "045bae48-bfff-4e04-a080-14a99dbf2e0c",
+          "38aab7d5-4020-4b5d-aa34-5f065cd7a210"
+        ],
+        "settings": {
+          "show_social_media": false,
+          "social_title": "Follow-us on social media!",
+          "show_payment_icons": true,
+          "show_shopify_footer": false,
+          "show_debutify_footer": false,
+          "custom_credential": "<p>ActivePosture Ltd., c\/o DSV Accounting & Business Services, Suite 23 Colworth House, Colworth Park, Sharnbrook, Bedford MK44 1LZ, United Kingdom. <br\/><br\/>Company reg. number: 11314103.<br\/><\/p>"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "blocks": {
+          "3c1ba0f4-31bf-4023-8ec5-df5daa908bb7": {
+            "type": "description",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Details"
+            }
+          },
+          "72f69c35-ef4e-4428-a23a-b0994d0d2632": {
+            "type": "reviews",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "dbtfy_product_tabs_review": true,
+              "dbtfy_product_tabs_icons": "v",
+              "dbtfy_product_tabs_title": "Reviews"
+            }
+          },
+          "cace2e1c-86d2-4ecc-ba91-65c6898cbd62": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Rich text",
+              "dbtfy_product_tabs_text": "<p>asdfasdfa<\/p>",
+              "dbtfy_product_tabs_html": "asdfasdf",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "mens-posture-shirt-zipper-sort",
+              "dbtfy_product_tabs_collection": ""
+            }
+          },
+          "f3ce1113-dc04-4af9-8f90-c4d8b5b4cca7": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Rich text",
+              "dbtfy_product_tabs_text": "",
+              "dbtfy_product_tabs_html": "wefsdfasdfasdfa",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "mens-posture-shirt-hvid",
+              "dbtfy_product_tabs_collection": ""
+            }
+          },
+          "9b2470fb-ace6-451d-a928-3e222f90efc9": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "wwwww",
+              "dbtfy_product_tabs_text": "<p>wewewewewewew<\/p>",
+              "dbtfy_product_tabs_html": "wesewewewewewewwewwewewwewewewewewewew",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "womens-posture-shirt-hvid",
+              "dbtfy_product_tabs_collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "3c1ba0f4-31bf-4023-8ec5-df5daa908bb7",
+          "72f69c35-ef4e-4428-a23a-b0994d0d2632",
+          "cace2e1c-86d2-4ecc-ba91-65c6898cbd62",
+          "f3ce1113-dc04-4af9-8f90-c4d8b5b4cca7",
+          "9b2470fb-ace6-451d-a928-3e222f90efc9"
+        ],
+        "settings": {
+          "dbtfy_product_tabs_position": "separate_section",
+          "show_product_vendor": false,
+          "show_product_type": true,
+          "show_product_sku": false,
+          "product_title_large": false,
+          "show_product_tags": true,
+          "show_sharing_icons": true,
+          "show_product_collections": true,
+          "enable_image_zoom": true,
+          "enable_video_looping": true,
+          "media_layout": "thumbnails",
+          "image_size": "medium",
+          "quantity_enabled": true,
+          "product_selector": "radio",
+          "show_product_description": true,
+          "enable_split_description": false,
+          "description_full": false,
+          "dbtfy_product_description_position": "separate_section",
+          "description_style": "section-border",
+          "text_alignment": "text-center",
+          "text_alignment_mobile": "small--text-center"
+        }
+      },
+      "dbtfy-upsell-bundles": {
+        "type": "dbtfy-upsell-bundles",
+        "settings": {
+          "dbtfy_upsell_bundles_title": "Frequently bought together",
+          "dbtfy_upsell_bundles_subtitle": "",
+          "dbtfy_upsell_bundles_total": "Total price:",
+          "dbtfy_upsell_bundles_cart": "Add selected items",
+          "dbtfy_upsell_bundles_icons": "library_add_check",
+          "dbtfy_upsell_bundles_current": "This item:",
+          "section_style": "section-border",
+          "dbtfy_upsell_bundles_reviews": false,
+          "dbtfy_upsell_bundles_limit": "2",
+          "dbtfy_upsell_bundles_position": "product"
+        }
+      },
+      "dbtfy-product-page-builder": {
+        "type": "dbtfy-product-page-builder",
+        "settings": {
+          "show_page_title": true
+        }
+      },
+      "product-row": {
+        "type": "product-row",
+        "settings": {
+          "show_product_row": true
+        }
+      },
+      "dbtfy-pricing-table": {
+        "type": "dbtfy-pricing-table",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "Pricing table",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "dbtfy_button_position": "middle"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "rows": "2",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "slider_related_products": true,
+          "arrows": true,
+          "dots": true,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "dbtfy-faq-section": {
+        "type": "dbtfy-faq-section",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "FAQ",
+          "subtitle": "",
+          "section_style": "section-border",
+          "dbtfy_faq_searchbox": true,
+          "dbtfy_faq_search_placeholder": "Search questions...",
+          "dbtfy_faq_bannerbox": true,
+          "dbtfy_faq_banner_icon": "live_help",
+          "dbtfy_faq_banner_text": "Didn't find your answer?",
+          "dbtfy_faq_banner_subtitle": "Our customer service will be happy to help you.",
+          "dbtfy_faq_btn": "Get in Touch",
+          "dbtfy_faq_link": ""
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "settings": {
+          "show_related_products": false,
+          "related_collection": true,
+          "same_vendor": false,
+          "same_type": false,
+          "never_empty": true,
+          "title": "You may also like",
+          "subtitle": "",
+          "section_style": "section-border",
+          "rows": "1",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "slider_related_products": true,
+          "arrows": true,
+          "dots": true,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "settings": {
+          "show_on_desktop": false,
+          "show_on_mobile": false,
+          "title": "Testimonials",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "quote_width": "60",
+          "arrows": true,
+          "dots": true,
+          "autoplay": true,
+          "autoplayspeed": 5
+        }
+      },
+      "16300631015589eb65": {
+        "type": "video-background",
+        "settings": {
+          "page_width": "full_width",
+          "height": "medium",
+          "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/anodyne_cover_video.mp4?v=1631866527",
+          "show_overlay": true,
+          "image": "shopify:\/\/shop_images\/Hero-video-cover.png",
+          "image_position": "center center",
+          "video_title": "<span class=\"first\">ActivePosture®<\/span>",
+          "text_size": "medium",
+          "text_description": "<p><strong>We improve your posture! More than 500,000 satisfied customers worldwide<\/strong><\/p>",
+          "text_description_size": "medium",
+          "button_label": "See products",
+          "button_link": "shopify:\/\/collections\/all-products",
+          "show_scrolldown": true
+        }
+      },
+      "1630063768bdfa2f5f": {
+        "type": "featured-services",
+        "blocks": {
+          "1630063768bdfa2f5f-0": {
+            "type": "service",
+            "settings": {
+              "title": "Fast Delivery",
+              "description": "We pay all standard delivery costs and ship with Royal Mail",
+              "icon": "shopify:\/\/shop_images\/Truck.png",
+              "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
+            }
+          },
+          "1630063768bdfa2f5f-1": {
+            "type": "service",
+            "settings": {
+              "title": "Easy return",
+              "description": "We offer a quick, free and easy way to return products",
+              "icon": "shopify:\/\/shop_images\/Returns.png",
+              "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
+            }
+          },
+          "66c69b66-4ba2-424e-a46c-68c81d83d5c4": {
+            "type": "service",
+            "settings": {
+              "title": "Shipped from UK",
+              "description": "We ship directly from our warehouse in Bristol",
+              "icon": "shopify:\/\/shop_images\/Smile2.png",
+              "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
+            }
+          },
+          "3011a919-3be7-41c5-aa09-25734c19504d": {
+            "type": "service",
+            "settings": {
+              "title": "Try it for 30 days",
+              "description": "No strings attached! Return any product within 30 days",
+              "icon": "shopify:\/\/shop_images\/Checkmark.png",
+              "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
+            }
+          }
+        },
+        "block_order": [
+          "1630063768bdfa2f5f-0",
+          "1630063768bdfa2f5f-1",
+          "66c69b66-4ba2-424e-a46c-68c81d83d5c4",
+          "3011a919-3be7-41c5-aa09-25734c19504d"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1630070175c6ebb320": {
+        "type": "featured-collections",
+        "blocks": {
+          "1630070175c6ebb320-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "posture-shirt",
+              "btn__shopnow": "shop"
+            }
+          },
+          "1630070175c6ebb320-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "back-support",
+              "btn__shopnow": "shop"
+            }
+          },
+          "1630070175c6ebb320-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "all-products",
+              "btn__shopnow": "Shop"
+            }
+          }
+        },
+        "block_order": [
+          "1630070175c6ebb320-2",
+          "1630070175c6ebb320-1",
+          "1630070175c6ebb320-0"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "full_width": false,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "section_height": "small",
+          "show_view_all": false,
+          "button_label": "View all",
+          "button_link": "shopify:\/\/collections",
+          "button_style": "btn--primary",
+          "slider_featured_collections": false,
+          "arrows": false,
+          "dots": false
+        }
+      },
+      "163032369225153039": {
+        "type": "mission",
+        "blocks": {
+          "b1098b0a-da6e-4795-8ddc-230d0010ed64": {
+            "type": "html",
+            "settings": {
+              "mission_title": "Why choose posture clothing from ActivePosture®?",
+              "mission_description": "<a href=\"\/collections\/posture-shirt\"><u>Posture Shirt™<\/u><\/a> is the best choice when looking for pain reduction in neck, shoulders and back or if you are looking for a faster recovery after an injury, for instance, a shoulder injury. The shirt may also help prevent injuries when you do gym activities or other physical activities. How can the shirt do that? The shirt is anatomically constructed with NeuroBands™, which is tension panel bands that activates and stimulate specific muscle groups and joints to help improve your posture. This controlled resistance causes your muscles to contract to increase strength and keep you in an upright position. For those suffering from a shoulder injury or have recently had surgery, we recommend the zipper version of our Posture Shirt. We also have a wide selection of other <a href=\"\/collections\/back-support\"><u>products that provide back support<\/u><\/a>, including three different posture braces and a lumbar support belt. What these products have in common are posture correction and pain relief.",
+              "column_width": 12,
+              "column_width_mobile": 12,
+              "text_alignment": "text-center",
+              "btn_text": "",
+              "btn_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "b1098b0a-da6e-4795-8ddc-230d0010ed64"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "margin__bottom": 0,
+          "section_style": "section-blank",
+          "wrapper_size": "-small"
+        }
+      },
+      "163032806406e9f003": {
+        "type": "quotes",
+        "blocks": {
+          "163032806406e9f003-0": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks.png",
+              "icon": "format_quote",
+              "quote": "<p><em>I was doubtful about the cost of the shirts but the impact on my pain level totally justifies the outlay. I have just ordered more.  <\/em><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
+              "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
+              "author": "Terri G."
+            }
+          },
+          "163032806406e9f003-1": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks.png",
+              "icon": "format_quote",
+              "quote": "<p><em>I bought my shirt and I must confess I was a little sceptical on how effective it would perform. My skepticism was unfounded.<\/em><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
+              "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
+              "author": "Gordon R."
+            }
+          },
+          "163032806406e9f003-2": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks.png",
+              "icon": "format_quote",
+              "quote": "<p><em>I would highly recommend this product and will be purchasing more and recommending to friends and family.<\/em><br\/><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
+              "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
+              "author": "Michelle W."
+            }
+          }
+        },
+        "block_order": [
+          "163032806406e9f003-0",
+          "163032806406e9f003-1",
+          "163032806406e9f003-2"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustpilot_logo.png",
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "quote_width": "60",
+          "arrows": true,
+          "dots": true,
+          "autoplay": true,
+          "autoplayspeed": 7
+        }
+      },
+      "1630331223d20499c6": {
+        "type": "featured-products",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "Most popular products",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "home_featured_products": "all-products",
+          "rows": "1",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "show_view_all": true,
+          "button_label": "See more products",
+          "button_link": "shopify:\/\/collections\/all-products",
+          "button_style": "btn--primary",
+          "slider_related_products": false,
+          "arrows": false,
+          "dots": false,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "1630404145a76c9e4d": {
+        "type": "featured-video",
+        "blocks": {
+          "1630404145a76c9e4d-0": {
+            "type": "video",
+            "settings": {
+              "video_cover_image": "shopify:\/\/shop_images\/Thumbnail_Active_Posture-min_1920x1080_30d887af-7847-468e-bd53-cd17fb5358a5.jpg",
+              "video_url": "https:\/\/www.youtube.com\/watch?v=VvEpFrl3hZQ",
+              "animated_button": true
+            }
+          }
+        },
+        "block_order": [
+          "1630404145a76c9e4d-0"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "full_width": false,
+          "title": "Who are we?",
+          "subtitle": "See our presentation video",
+          "section_style": "section-default"
+        }
+      },
+      "1630409395746d29de": {
+        "type": "featured-accordions",
+        "blocks": {
+          "1630409395746d29de-0": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "NeuroBand™-technology",
+              "accordion__inner-title": "",
+              "accordion__description": "Posture clothing from ActivePosture® is manufactured using a unique composition of polyester, spandex and nylon which makes the clothing durable and breathable while keeping its elasticity, as well as being comfortable to wear. It is designed with the patented NeuroBand™ technology, which is inspired by Kinesiotape. The clothes aim to reflect the contraction and expansion of the muscles to promote natural posture correction.",
+              "accordion__buttontext": "Shop",
+              "accordion__LinkUrl": "shopify:\/\/collections\/posture-shirt"
+            }
+          },
+          "1630409395746d29de-1": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "Posture clothing for your needs",
+              "accordion__inner-title": "",
+              "accordion__description": "Posture clothing from ActivePosture® provide posture support and can be used by anyone. We sell posture correcting t-shirts, bras and vests, all designed for posture correction by helping to activate the muscles and blood circulation and hereby remind the body to hold a better posture. ActivePosture's posture correcting t-shirts and bras can be used at any time; at work, when going for walks, doing your shopping, exercising and all other daily activities. In every kind of activity where you wish for posture support. To get the most out of your posture clothing we recommend that you carefully read the instructions which are enclosed with each product. This way you will be able to get the optimal posture correction effect out of our products.",
+              "accordion__buttontext": "Shop",
+              "accordion__LinkUrl": "shopify:\/\/collections\/all-products"
+            }
+          },
+          "f87df513-1488-4240-a91d-ed8f2bb41077": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "Suffer from an injury?",
+              "accordion__inner-title": "",
+              "accordion__description": "If you have an injury, or if you have a spinal disc herniation, scoliosis, arthritis or related condition, you may benefit from wearing posture corrective clothing. If you haven't been given a diagnosis, we strongly recommend consulting a professional to discuss the best way forward for you. Some professionals may recommend our Posture Shirt™ others our Spinal Q, a vest for posture correction with our most powerful support function. Our products are registered as medical devices and as such you have a guarantee that they are safe for you to use. If you need any advice about our products and which one will be best for you, you can always contact the customer service team.",
+              "accordion__buttontext": "See products",
+              "accordion__LinkUrl": "shopify:\/\/collections\/back-support"
+            }
+          },
+          "225005a5-c60f-4ff1-be6b-7f7256b16ac7": {
+            "type": "Accordion",
+            "disabled": true,
+            "settings": {
+              "accordion_title": "Blessures",
+              "accordion__inner-title": "Ook voor jou, als je blessures hebt",
+              "accordion__description": "Als je te maken hebt met een blessure of als je bijvoorbeeld een hernia, scoliose,artritis of iets dergelijks hebt, kun je onze houdingcorrigerende kleding prima gebruiken. Als het letsel nieuw is, raden we je aan dit eerst te bespreken met bijvoorbeeld je arts, fysiotherapeut of chiropractor. In sommige gevallen kan het houdingcorrigerende vest (MyLign of SpinalQ Pro) het beste zijn, omdat dat het meeste steun biedt. Het is belangrijk dat je de juiste maat houdingcorrigerende kleding bestelt, anders bereik je niet het optimale effect. Het beste is om naar de matentabel op onze productpagina's te kijken en bij twijfel contact op te nemen met onze klantenservice. Zij beantwoorden graag je vragen over onze producten en helpen je om de juiste maat te vinden.",
+              "accordion__buttontext": "",
+              "accordion__LinkUrl": ""
+            }
+          }
+        },
+        "block_order": [
+          "1630409395746d29de-0",
+          "1630409395746d29de-1",
+          "f87df513-1488-4240-a91d-ed8f2bb41077",
+          "225005a5-c60f-4ff1-be6b-7f7256b16ac7"
+        ],
+        "settings": {
+          "title": "Pain relief with posture clothing",
+          "section_style": "section-blank"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "collection_tags_enable": false,
+          "collection_tags_count": false,
+          "collection_multiple_tags_filtering_enable": false,
+          "collection_sort_enable": false,
+          "tag_selector": "button",
+          "rows": "4",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "collection_banner": "shopify:\/\/shop_images\/December-offers_UK.jpg",
+          "collection_banner_mobile": "shopify:\/\/shop_images\/December-offers_mobile_UK.jpg",
+          "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_UK_18e6faaf-dae9-4473-98e9-b0337f3e8f9f.jpg",
+          "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_UK_c6547bf8-d6f2-4271-a12a-b3ade7d93561.jpg"
+        }
+      },
+      "dbtfy-collection-filters": {
+        "type": "dbtfy-collection-filters",
+        "settings": {
+          "clear_label": "Clear",
+          "clear_all_label": "Clear All",
+          "hide_unavailable_options": false,
+          "show_tags_count": true,
+          "visibility_tags_count": "all"
+        }
+      },
+      "product-tabs-template": {
+        "type": "product-tabs-template",
+        "settings": {
+          "dbtfy_product_tabs_position": "under_description",
+          "show_product_vendor": false,
+          "show_product_type": false,
+          "show_product_sku": false,
+          "product_title_large": false,
+          "show_product_tags": false,
+          "show_sharing_icons": true,
+          "product_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_UK_84c34d1b-38ef-4699-8dc8-4faee1e33991.jpg",
+          "product_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_UK_ff8f0347-dd1a-4edc-b68d-cebbf821d3cf.jpg",
+          "show_product_collections": false,
+          "enable_image_zoom": true,
+          "enable_video_looping": true,
+          "media_layout": "thumbnails",
+          "image_size": "medium",
+          "quantity_enabled": true,
+          "product_selector": "radio",
+          "show_product_description": false,
+          "show_product_description_in_tabs": true,
+          "enable_split_description": false,
+          "description_full": false,
+          "dbtfy_product_description_position": "separate_section",
+          "description_style": "section-border",
+          "text_alignment": "text-center",
+          "text_alignment_mobile": "small--text-center"
+        }
+      },
+      "product-cards": {
+        "type": "product-cards",
+        "blocks": {
+          "fe32e93f-234c-450d-8d07-e2efbc25f40e": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Customerservice_copy.png",
+              "title": "Customer Service",
+              "text": "<p>Contact us at <a href=\"mailto:info@activeposture.co.uk\">info@activeposture.co.uk<\/a> if you need any further information or assistance. We are always happy to help.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "86e60ed0-4f89-453b-bb6d-998997ba5497": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Truck.png",
+              "title": "Fast Shipping",
+              "text": "<p>We always ship your parcel with Royal Mail directly to your door. The standard delivery time is usually around 24-48 hours.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "cb8805d6-2cd1-4b82-aa5e-bcd50bd85ebc": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Returns.png",
+              "title": "Easy Return & Exchange",
+              "text": "<p>Is your new Posture Shirt too big\/small? Don't worry! You can return it for free and order a new size. We pay all return shipping costs.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "1c9774d2-047f-45d4-8645-84edb4bf51cd": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Checkmark.png",
+              "title": "Shipped from the UK",
+              "text": "<p>We now ship your order directly from our warehouse in Bristol. This means we can get your order to you without any unnecessary delay.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          }
+        },
+        "block_order": [
+          "fe32e93f-234c-450d-8d07-e2efbc25f40e",
+          "86e60ed0-4f89-453b-bb6d-998997ba5497",
+          "cb8805d6-2cd1-4b82-aa5e-bcd50bd85ebc",
+          "1c9774d2-047f-45d4-8645-84edb4bf51cd"
+        ],
+        "settings": {
+          "show_product_card": true
+        }
+      },
+      "16334458477be6bcd8": {
+        "type": "newsletter",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "",
+          "subtitle": "Sign up for our newsletter and receive regular emails with new products, current offers and competitions.",
+          "section_style": "section-default"
+        }
+      },
+      "dbtfy-faq-page": {
+        "type": "dbtfy-faq-page",
+        "blocks": {
+          "21170241-e223-4c47-bc79-e2ee2878272e": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Products",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "98f5a103-7050-4f71-9ceb-d51064a0571c": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "What is posture correcting clothing from ActivePosture® and how does it work?",
+              "text": "<p>Posture correcting clothing from ActivePosture® is designed to stimulate muscle memory and improve posture awareness. The Posture Shirt and Posture Bra from ActivePosture® contributes to the creation of a constant flow of information that runs back and forth between the 20,000 to 80,000 nerve receptors in a square centimetre of skin. The result is that the muscles are stimulated by the brain to become active so that you yourself improve your posture by strengthening your muscles. To maximise the effect, we do recommend being physically active.<\/p>"
+            }
+          },
+          "51d055bd-7606-4a10-8020-661e7baaf994": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "What is the difference between ActivePosture® products and a corset?",
+              "text": "<p>The biggest difference between ActivePosture’s posture correcting clothing and corsets is that our product does not overtake your muscles functionality. In a corset or<br\/>compression shirt, you will get the feeling of “collapsing” once you take the product off. The idea behind is to hold you in a fixed position, making it very difficult for you to move. A medical specialist may recommend these types of product in very unique cases, but they would generally never recommend it if you are looking to achieve a better posture and reduce shoulder and back pain related to poor posture.<\/p><p>Posture correcting clothing from ActivePosture works differently from corsets by allowing you to retain free movement. The shirt is rather making you aware of your posture, see it as a strict teacher constantly telling you when your posture is poor. The Posture Shirt or InterActive Bra doesn’t feel comfortable like a normal t-shirt and bra. If you, for instance, are slouching you will feel the feedback from the shirt that will encourage you to align your posture and it will come naturally to you to do so. When you start aligning your posture, you will activate the muscles yourself. When you continuously activate your muscles, the muscles also build up muscle memory, so the effect is also seen when you are not wearing the shirt or bra.<\/p><p>In short: ActivePosture's products stimulate and activate the muscles instead of making<br\/>the muscles lazy and hereby weakening them.<\/p>"
+            }
+          },
+          "b3cb421f-11d4-472c-95a9-a2a96bd8c1b4": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "What is the difference between the Posture Shirt from ActivePosture® and that of their competitors?",
+              "text": "<p>The posture correcting clothing from ActivePosture is registered by the FDA as a medical device in Medical Class One and has also obtained the CE marking in the same class. When looking at competitor’s products it is key to look for these registrations. If they don’t have them, they are most likely just selling you a look-a-like product they purchase for £1-£2 and hope their customers won’t bother to send back, even when they are not doing anything good for their posture.<\/p><p>You find our registrations and documentations below:<br\/><\/p><p><a href=\"https:\/\/www.accessdata.fda.gov\/scripts\/cdrh\/cfdocs\/cfRL\/rl.cfm?lid=446140&lpcd=IQI\" target=\"_blank\">View the FDA registration here<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0597\/3278\/7389\/files\/Certificate-of-CE-Registration.pdf?v=1633978381\" target=\"_blank\">View the CE mark here<\/a><br\/><\/p>"
+            }
+          },
+          "fff8ad10-293f-4a80-9dfd-49bae841f95b": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "How will I see improvement in my posture?",
+              "text": "<p>When you have the correct size, you will immediately feel and see a difference in your body posture when wearing the shirt or bra. To see the effect when you are not wearing the shirt, the time frame is a bit longer. Your body needs time to learn the ability to hold the proper body posture. When wearing the shirt, you are constantly being subtlety reminded to align your posture, this leads to building up “muscle memory”, so you begin to align your posture even when not wearing the shirt.<br\/><\/p><p>By wearing the posture correcting clothing and carrying out your normal activities, such as walking, working, exercising (fitness, horseback riding, cycling, running, etc.), the teaching of the new body posture is reinforced by movement. The movements that you most often perform on a normal day have the greatest influence on how quickly the muscle memory changes. Depending on these factors,<br\/>combined with how often and for how long you use your shirt or bra product, you will notice the physical changes optimally after wearing the shirt for about<br\/>60-90 days, but you will know within your 60-day trial period if the product is working on you.<\/p>"
+            }
+          },
+          "93093c45-1166-4eb5-99da-f580e03c0459": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Will I experience less pain and\/or will it improve my posture?",
+              "text": "<p>It is likely that you will feel less back pain, shoulder pain and neck pain from wearing our<br\/>product and a vast majority of people using our Posture Shirt or AlignMe Bra will improve their posture. Whether this will also apply to you we can’t guarantee. This is why we give you 60-days to try it yourself. You will either<br\/>be part of the majority that will feel the benefits of the product, but you may also be one of the unlucky ones, the 4% who return the product as they don’t<br\/>feel an improvement.<br\/><\/p><p>To increase your chances of having a successful experience, we do recommend that you really give the product a chance. If you have had back pain for instance for many years, don’t expect these to completely disappear after wearing the shirt for two hours. Take advantage of your 60-day trial period and commit to it. Wear it every day the first week, start with 1-2 hours and increase usage to 2-4 hours. After that first week then wear it for 8-10 hours 3-4 times a week. How do you feel after 4 weeks? Most likely you will feel a reduction of your pain and an<br\/>improvement of your posture. If not, then don’t worry about it. Just return the product for a full refund.<\/p><p>Don’t ever hesitate to get in touch with our customer service team if you want any advice of usage during your trial period (or even after that period has ended). Our goal is that you end up loving this product, so you will recommend it to family, friends and colleagues, so we have a huge interest in helping you to get the best possible result!<br\/><\/p>"
+            }
+          },
+          "537d2df8-4438-411b-94f8-22a1c0f58067": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "How long does my ActivePosture® product last?",
+              "text": "<p>The lifetime of your ActivePosture product depends on how you care for it and how often and for how long you wear it. Like all other clothes, these clothes will also show signs of wear and tear depending on how often you wear them.<\/p><p>It is important that you follow the care instructions. We recommend hand washing, but it can also be machine washed, however not at more than 30 degrees. The product may<br\/>not be tumble dried as that will destroy the NeuroBands® which is the technology that is built into the shirt and is what will feedback to your body, when your posture is not optimal.<\/p><p>If you are taking care of the product according to the care instructions the product should last you anything between 6 months and 2 years.<\/p>"
+            }
+          },
+          "c564418c-9354-4e58-a39a-0eb8c44ea728": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Size Guide",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "7661c859-d1d1-46cb-971f-821b1ccccf03": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Which size should I choose?",
+              "text": "<p>Having the right size is key to be able to experience the benefits from our Posture Shirt. A size chart is listed for each product. If your measurements are caught between two sizes, then always go for the smaller one. The worst-case scenario is that we need to do an exchange, but in 9 out of 10 cases going for a smaller size, when between sizes, is the right decision. If you fit nicely within the size, then stick to that size. If you normally by one size up because you like a loose fit, then don’t apply that practice when choosing posture clothing. The product needs to sit tight on you in order to work. If in doubt, then don’t hesitate to contact us.<\/p>"
+            }
+          },
+          "160931be-08d2-42b1-9b3f-04f4c35f2bf9": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "How can I see if I have the right size?",
+              "text": "<p>The Posture Shirt should sit tight to your body in order for you to get the right effect. You can only determine whether a shirt is too big or too small by looking at the NeuroBands around the shoulders. The NeuroBands™ are the five panels of variable elasticity that are mapped to the body to mirror the contractive properties of muscles. <\/p><p>Does the NeuroBands™ in your shirt fold? If so, then we will advise you to exchange it for a smaller size. If you are unsure about the size, please contact our customer service team.<\/p>"
+            }
+          },
+          "bfe856a3-ef15-4b4b-873f-92b652251152": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "My posture shirt is (very) tight, is it too small?",
+              "text": "<p>The Posture Shirts from ActivePosture should sit tight on you in order to be effective, but it should not feel extremely uncomfortably tight. If you don’t have any free movement once it is pulled on, then it may be too small. Best thing is to contact customer service and have a chat with them so they can help you figure out your correct<br\/>size. If you could measure your chest\/bust size in inches before the call, they will be in a better position to advise you. You can also send a photo from the<br\/>back showing you wearing the shirt, then they can easily see of the product sits correctly on you.<\/p>"
+            }
+          },
+          "a585ce43-5f0e-4e75-8428-2bf1d3baabf5": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "User Guide",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "e839b793-e06a-421a-b77e-53033c156439": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "How do I take the shirt on and off?",
+              "text": "<p>Putting on a tight-fitting Posture Shirt is quite different from putting on a regular loose t-shirt. This is why we have created a video explaining how to best put the shirt on and off. <a href=\"https:\/\/www.youtube.com\/embed\/wS2MSqgNGjM\" target=\"_blank\">You can see that video here<\/a>. <\/p><p>Tip: If you plan to wear the shirt for the gym, then we do recommend the t-shirt with a zipper as it can be quite tricky to get the shirt off if you are sweating a lot. If you have already bought a pullover version of the shirt, then the best tip to get it off after a sweaty exercise is to roll it up as high as you can and then grab the shirt from over your head with one of your hands.<\/p><p><\/p>"
+            }
+          },
+          "83b8055a-b308-46f8-8672-8f83bd45791f": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "When should I wear my ActivePosture® clothing?",
+              "text": "<p>When you first start wearing the posture correcting clothing from ActivePosture® we recommend<br\/>starting slowly. Wearing it 1-2 hours a day the first week will work for most. Try to use it at times where you need the most support, so if this is when walking or sitting in front of a computer, then use it then. After one week, you can wear the shirt for 8-10 hours or for how long it feels comfortable. Tip! Wear the clothing during sports activities, if you often have a poor posture during your exercises.<\/p>"
+            }
+          },
+          "3306bdee-e3a8-4724-bae1-6283c801630b": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Are there people who should not use the ActivePosture® products?",
+              "text": "<p>We are proud to be listed as a medical device, it means that our product has gone through proper tests making it a safe and reliable option, but this does not mean that our product is for everyone.<\/p><p>We always recommend<br\/>consulting a physiotherapist, doctor etc, if you have any serious conditions\/illnesses or physiological limitations. We work with many medical<br\/>specialists in all the Europeans countries we work in, but if your specialist does not know about our product, they are more than welcome to contact us to<br\/>learn more.<\/p><p>If you have recently undergone surgery, you should discuss with a doctor or physiotherapist\/Osteopath\/Chiropractor if it is too early to work on your posture. In case of mobility problems around the shoulders, we recommend<br\/>choosing the Posture Shirt Zipper or for women, either the shirt with a Zipper or the Bra, because it is much easier to get on and off.<\/p><p>In general, we do not advise children and adolescents under 17 years of age to use the products without prior advice from a doctor or physiotherapist.<br\/><\/p>"
+            }
+          },
+          "9ce299d6-a528-47b4-8f65-725d158f776b": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "For how long should I wear my Posture Shirt?",
+              "text": "<p>In general, we recommend to wear the Posture Shirt for up to two hours daily the first week<br\/>and then increase usage. If you experience fatigue within the first couple of hours, then take it off for that day and try it again the next day. For some,<br\/>it may work best starting with half an hour and then slowly building it up, while others can wear it for two hours from day 1. As you will be activating<br\/>muscles that may otherwise have been inactive for a long time (or just been used incorrectly) getting slight sore muscles may be the result in week one, but think of that as something good. It means your muscles are working.<\/p><p>If you do not experience any muscle pain, even on day 1, and you definitely have the right<br\/>size, then see how it goes if you wear it for 4 hours. If you wake up the next morning and feel you have very sore muscles, then take a break that day and<br\/>start up again the next day, maybe for a slightly shorter time.<\/p><p>After the first week, your muscles will have gotten used to being activated and you can wear the shirt for a longer time. Most people will begin to wear it for a full work day. As you start to wear it for such long periods at a time, you are quickly<br\/>building muscle memory, which means you will align your posture yourself, even when not wearing the shirt. Once you feel that you are aligning your posture even at times when not wearing the shirt, you can reduce the usage of the shirt to 3-4 times a week.<\/p><p>Below we have made a plan for the typical first-time user of a posture correcting shirt with regular posture issues due to slouching:<\/p><p><strong>Week 1<\/strong><br\/>Day 1-3: Wear it for 1-2 hours (if you don’t feel any soreness after day 1, then double the amount of time wearing it).<\/p><p>Day 4-7: Wear it for 2 hours daily (if you don’t feel any soreness then double the amount if hours using it).<\/p><p>Day 8 and onwards: Wear it for 8-10 hours a day 3-4 times a week. If you feel overtrained in your muscles from wearing it, then reduce the hours, for instance to 4-6 hours and<br\/>the slowly build it up to 8-10 hours.<\/p><p>If you get in doubt about what is best for you, then don’t hesitate to contact us and we will be<br\/>happy to give you some advice.<\/p>"
+            }
+          },
+          "24c9069e-5591-42a4-b0b1-1ba393faa10a": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "How can I best take care of my ActivePosture® products?",
+              "text": "<p>The Posture Shirt and AlignMe Bra can be hand washed or machine washed at 30 degrees. It is absolutely key that the products are not tumble dried as that will destroy the effectiveness of the Neurobands, nor should fabric softener be used as that will lessen the performance of the Neurobands. The products<br\/>thankfully dry fast when hanged freely overnight.<\/p>"
+            }
+          },
+          "535bddc1-f4fb-45da-8f9c-4d7b3d9a375f": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Delivery Methods",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "ccfa0081-2993-4cad-986e-299ad2711d18": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "I have not received my package yet, what should I do?",
+              "text": "<p>If five workdays have passed since you received the confirmation that your product has been shipped and you still haven’t received it, please do<br\/>contact us, so we can investigate it with Royal Mail. In many cases, your product will be at your local post office, but they may not have informed you.<br\/>It also happens that they have one of your neighbour's sign for your parcel, so your package may be only a few feet away! However, it can also be that the post office has misplaced your package, this is what we will investigate and we will naturally ship you a new product if Royal Mail can’t find the product in their system. <\/p>"
+            }
+          },
+          "e0aad449-d74c-445d-98ee-e08f97e98fa3": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "How long does delivery take?",
+              "text": "<p>We aim to ship products ordered before 3 PM on weekdays on the same day, but in very busy times it may not be shipped before the following day. Once shipped, you will typically receive your item in 1-4 days. We ship with Royal Mail 1st class signed for. Typically, they do deliver within 1-2 days. Note, we do not ship in weekends. <\/p>"
+            }
+          },
+          "de205e96-066f-4c7f-a04c-351b8dc03979": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Ordering & Payments",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "3809a5e7-7c91-41f7-912f-ae2ee8f7b5cd": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "What payment options do you offer?",
+              "text": "<p>You can purchase from our website using a credit card, debit card, PayPal and Klarna. Unfortunately, you are not able to pay over the phone or via cheque.<\/p>"
+            }
+          },
+          "c8ab5243-02cf-41ef-9c2c-eeb2eb967467": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "What is Klarna and how does a payment via this option work?",
+              "text": "<p>With Klarna you can pay for your order 14 days after shipping. This means that you can have the product in your hand, before making a decision as to whether you want to purchase it.<\/p><p>You'll receive a reminder two days before your payment is due, and you'll also receive email reminders, so it is key that you enter your phone number and email correctly.<\/p><p>The 14-days payment terms do not affect your 30-day trial period. If you are still undecided as to whether your ActivePosture product is something for you after 14 days, simply pay the invoice from Klarna and continue using your product. If after 30 days you decide not to keep, simply return the product and you will<br\/>receive a refund from Klarna.<\/p>"
+            }
+          },
+          "f42ad615-c53e-4120-b521-7297d2d23cb0": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Can I change my order?",
+              "text": "<p>If your order is yet to be dispatched, we can make changes for you. Get in touch with us as soon as possible. If it is not possible for you to call us, then do send us an email on info@activeposture.co.uk and we will see if your package is still in-house.<\/p>"
+            }
+          },
+          "27452e2c-2dd6-4e78-9f00-9ef214e95f51": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "I have just placed an order. Can I cancel this?",
+              "text": "<p>If your order has not yet been sent, you can contact the customer service, and we will be able to<br\/>delete your order.<\/p><p>If your package has already been shipped, you can return it. As soon as we receive the parcel in our warehouse, we process the refund.<\/p>"
+            }
+          },
+          "a8e91025-c107-42fd-97f6-bdeb9dc84ad2": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "I have received the wrong product. What do I do?",
+              "text": "<p>ActivePosture’s dispatch team is packing thousands of products a year and unfortunately, it can<br\/>happen that you get a wrong product, for instance, pullover shirt, even if you have ordered one with a zipper. We are naturally very sorry about that. Errors like these cost us money as we have to pay for all shipments, so we are doing<br\/>our very best to avoid these mistakes. If you are one of the unlucky ones to whom this has happened, please do use the pre-paid label in your package and return the product together with the return form indicating your name, order number and reason for exchange (simply stating that we shipped you the wrong product) and we will prioritise getting a new product shipped to you with no<br\/>delay.<\/p>"
+            }
+          },
+          "a4fb568f-5eb5-47fd-9de0-caef948745df": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Do I have a warranty on my ActivePosture® products?",
+              "text": "<p>Yes, under the Consumer Rights Act, you have a 6-month warranty. If the product is faulty, we will exchange it as long as you have followed the care instructions. When it comes to the Posture Shirt and the AlignMe Bra, these products may not be tumble dried, nor can they be washed above 30 degrees.<\/p><p>If you are one of the few who is unlucky having a faulty product, then get in contact with us as<br\/>soon as possible.<\/p>"
+            }
+          },
+          "1165499a-02b2-4234-87d6-cbca09f9a06e": {
+            "type": "category_block",
+            "settings": {
+              "dbtfy_faq_category": "Exchange & Return",
+              "dbtfy_faq_icons": "support"
+            }
+          },
+          "01d1a4d8-9f8d-4c48-af64-d9c7f12a1efb": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "What exactly does a 30-day trial period mean?",
+              "text": "<p>It means exactly that! At ActivePosture® we allow you to test the product in your everyday situations. Wear the shirt at work, while walking or going to the gym. Wash it when needed (do follow the care instructions though). If for any reason you are not satisfied with your product from ActivePosture, you can return it within 30 days for a full refund. The only times we don’t accept refunding the money on a<br\/>returned product is if it has been tumbled dried or washed with fabric softener as that will weaken the performance of the shirt and while we are not<br\/>re-selling the product, we will be using it at events as a demo product.<\/p>"
+            }
+          },
+          "22d4bc2c-7c72-4162-89bc-0662744a5aeb": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Can I exchange my ordered product(s)?",
+              "text": "<p>Yes, if you are still in your 30-day trial period. Fill out the return form with your name, order number and the size you want to exchange to, and we will process this as soon as possible after we have received the package. Once you receive your new product, a new 30-day trial period starts. If you have any doubt about your size, then don’t hesitate to contact our customer service team so they can help you pick the correct size so you can avoid multiple exchanges!<\/p>"
+            }
+          },
+          "5ccc6c42-e193-4781-b245-1a612fe8b76d": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Can I return the product(s) I have ordered?",
+              "text": "<p>We offer a 30-day return policy. What that means is that within the first 30 days you can<br\/>return what you have ordered and get a full refund. You can use the return label we provided in your original shipment. Please do fill out the return form with your name, order number and with information that you want to return the product for a refund or that you want to exchange the product for a different size or different product.<\/p>"
+            }
+          },
+          "94547239-64d8-49d3-9ca9-0f9588c84671": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Do I have to pay when I want to exchange something within my 30-day trial period?",
+              "text": "<p>Shipping your product back is free of charge. A pre-paid label can be found in your packaging. In most cases, exchanges are just done to a different size for the same product and no refunds or extra payment is needed. If you are exchanging<br\/>to a cheaper product, then we will create a refund for the difference. If you want to exchange your product for a more expensive item, you need to return your current product for a refund and can then order the product you want from<br\/>our website.<\/p>"
+            }
+          },
+          "7f15f122-e418-4f58-8ea3-f4b218761da0": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "How do I return my order?",
+              "text": "<p>Fill out the return form with your name, order number and with information that you want to return<br\/>the product for a refund or that you want to exchange the product for a different size or different product. Please use the pre-paid return label we provided in your original shipment.<\/p>"
+            }
+          },
+          "0e28a17a-8e36-491c-8c64-2c5098b9d3c4": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "Do I pay for returning or exchanging a product?",
+              "text": "<p>No, we are providing you with a pre-paid label (make sure to keep it for the entire 30-day<br\/>trial period as we are not able to provide you with a 2nd label). Place the label on the packaging you received from us and be sure to include the return<br\/>form with your name, order number and reason for return (refund or exchange) and we will see to it that your request is being met.<\/p>"
+            }
+          },
+          "5e725c8e-afa6-4af3-a42f-6ca06c20eea2": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "My newly received product is damaged or broken. What do I do?",
+              "text": "<p>At ActivePosture® we do our best to ensure that all products are delivered in good condition.<br\/>However, a factory fault can always happen. If you receive a damaged or broken product, please contact customer service as soon as possible, but within the 30 days trial period, then we will make sure that you get a new product.<\/p>"
+            }
+          },
+          "426b28df-ebbd-4803-bddd-a84c6c77234e": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "I have returned my item. When will I get my money back?",
+              "text": "<p>We normally receive your package after 5-7 business days in our warehouse (although Royal Mail allows 14 days to return your item). We look to process refunds the same day we receive the parcels from Royal Mail. If you have paid using PayPal, you will have the money back to your PayPal account within minutes from receiving our email confirming the refund.<\/p><p>If you have purchased using a credit card or debit card, it typically takes 2-5 days for<br\/>the money to reach your bank account.<\/p><p>If you have paid for your order with a card using Klarna, the refund will be made back to the<br\/>same card within 14 days from ActivePosture having cancelled the order. So from the moment you receive an email with information that your order has been cancelled, it will take up to 14 days for Klarna to process your refund.<\/p>"
+            }
+          },
+          "511b7f8d-9aa7-43a3-b67d-b6d1ff8a9e2f": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "I got my product as a gift. Can I have the purchase amount refunded to my own account?",
+              "text": "<p>Unfortunately, the financial institutions are not allowing us to refund money to another account than to the one where the money was originally taken. If the product is not something for you and you don’t want to involve the person who gave you the product as a gift, you can consider exchanging the product for another item.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "21170241-e223-4c47-bc79-e2ee2878272e",
+          "98f5a103-7050-4f71-9ceb-d51064a0571c",
+          "51d055bd-7606-4a10-8020-661e7baaf994",
+          "b3cb421f-11d4-472c-95a9-a2a96bd8c1b4",
+          "fff8ad10-293f-4a80-9dfd-49bae841f95b",
+          "93093c45-1166-4eb5-99da-f580e03c0459",
+          "537d2df8-4438-411b-94f8-22a1c0f58067",
+          "c564418c-9354-4e58-a39a-0eb8c44ea728",
+          "7661c859-d1d1-46cb-971f-821b1ccccf03",
+          "160931be-08d2-42b1-9b3f-04f4c35f2bf9",
+          "bfe856a3-ef15-4b4b-873f-92b652251152",
+          "a585ce43-5f0e-4e75-8428-2bf1d3baabf5",
+          "e839b793-e06a-421a-b77e-53033c156439",
+          "83b8055a-b308-46f8-8672-8f83bd45791f",
+          "3306bdee-e3a8-4724-bae1-6283c801630b",
+          "9ce299d6-a528-47b4-8f65-725d158f776b",
+          "24c9069e-5591-42a4-b0b1-1ba393faa10a",
+          "535bddc1-f4fb-45da-8f9c-4d7b3d9a375f",
+          "ccfa0081-2993-4cad-986e-299ad2711d18",
+          "e0aad449-d74c-445d-98ee-e08f97e98fa3",
+          "de205e96-066f-4c7f-a04c-351b8dc03979",
+          "3809a5e7-7c91-41f7-912f-ae2ee8f7b5cd",
+          "c8ab5243-02cf-41ef-9c2c-eeb2eb967467",
+          "f42ad615-c53e-4120-b521-7297d2d23cb0",
+          "27452e2c-2dd6-4e78-9f00-9ef214e95f51",
+          "a8e91025-c107-42fd-97f6-bdeb9dc84ad2",
+          "a4fb568f-5eb5-47fd-9de0-caef948745df",
+          "1165499a-02b2-4234-87d6-cbca09f9a06e",
+          "01d1a4d8-9f8d-4c48-af64-d9c7f12a1efb",
+          "22d4bc2c-7c72-4162-89bc-0662744a5aeb",
+          "5ccc6c42-e193-4781-b245-1a612fe8b76d",
+          "94547239-64d8-49d3-9ca9-0f9588c84671",
+          "7f15f122-e418-4f58-8ea3-f4b218761da0",
+          "0e28a17a-8e36-491c-8c64-2c5098b9d3c4",
+          "5e725c8e-afa6-4af3-a42f-6ca06c20eea2",
+          "426b28df-ebbd-4803-bddd-a84c6c77234e",
+          "511b7f8d-9aa7-43a3-b67d-b6d1ff8a9e2f"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "dbtfy_faq_searchbox": true,
+          "dbtfy_faq_search_placeholder": "Search for question",
+          "dbtfy_faq_bannerbox": true,
+          "dbtfy_faq_banner_icon": "live_help",
+          "dbtfy_faq_banner_text": "Didn't find your answer?",
+          "dbtfy_faq_banner_subtitle": "Our customer service will be happy to help you.",
+          "dbtfy_faq_btn": "Get in Touch",
+          "dbtfy_faq_link": "shopify:\/\/pages\/contact-us"
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "show_on_desktop": false,
+          "show_on_mobile": false,
+          "hide_section": false,
+          "heading": "Our store",
+          "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
+          "map_address": "490 Rue De La Gauchetière O, Montréal",
+          "button_text": "Get directions",
+          "map_icon": "location_on",
+          "api_key": "",
+          "image_position": "center center"
+        }
+      },
+      "1637138319670a8228": {
+        "type": "featured-image",
+        "disabled": true,
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "full_width": true,
+          "image": "shopify:\/\/shop_images\/bf.jpg",
+          "section_style": "section-blank",
+          "wrapper__height": 500,
+          "image_title": "<p>BLACK<strong> DAYS<\/strong><\/p>",
+          "image_subtitle": "<p>All products are on sale! <strong>Save up to -50%<\/strong><\/p>",
+          "image_btntext": "LEARN MORE",
+          "image_link": "shopify:\/\/collections\/all-products",
+          "show_on_image_scrolldown": true
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "section_height": "medium",
+          "collection_per_page": 12
+        }
+      },
+      "1638777517a2c17ba0": {
+        "type": "featured-icons-columns",
+        "blocks": {
+          "1638777517a2c17ba0-0": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Checkmark.png",
+              "icon": "",
+              "title": "The original product for posture correction",
+              "text": "<p>The original posture clothing from ActivePosture®  is the only that is both FDA-registered and CE-registrered as a medical device and can be bought on <a href=\"https:\/\/www.activeposture.co.uk\/\" title=\"https:\/\/www.activeposture.co.uk\">www.activeposture.co.uk<\/a> or one of our licensed resellers. We are a UK-based company which gives you peace of mind that should you end up with a faulty product or just decide that it is not a product for you, you can easily return it and at no cost.<\/p>",
+              "button_style": "btn--primary"
+            }
+          },
+          "1638777517a2c17ba0-1": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Smile2.png",
+              "icon": "",
+              "title": "Posture clothing with 100% satisfaction guarante",
+              "text": "<p>Peace of mind: At ActivePosture® we always offer free returns and a generous 30-day risk-free trial period of our products. Use your new product for all your everyday activities and find out if it lives up to your expectations. With our 100% satisfaction guarantee you can return the product, despite it being used, within 30 days for a full refund, no questions asked.<\/p>",
+              "button_style": "btn--primary"
+            }
+          },
+          "1638777517a2c17ba0-2": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Kinesio2_copy.png",
+              "icon": "",
+              "title": "From Kinesiotape to patented posture clothing",
+              "text": "<p><a href=\"https:\/\/activeposture-uk.myshopify.com\/collections\/all-products\" title=\"All products\"><span style=\"text-decoration:underline\">Posture corrective clothing<\/span><\/a> activates the back muscles, shoulders and shoulder blades without bracing your muscles or joints. The technology behind ActivePosture's posture clothing is inspired by Kinesiotape - a treatment method often used by physiotherapists and chiropractors to treat pain and tension in the neck, shoulders and back. Kinesiotaping is also frequently used by professional athletes to stimulate specific muscle groups and for posture correction.<\/p>",
+              "button_style": "btn--primary"
+            }
+          }
+        },
+        "block_order": [
+          "1638777517a2c17ba0-0",
+          "1638777517a2c17ba0-1",
+          "1638777517a2c17ba0-2"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-default",
+          "text_align": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1637138319670a8228",
+      "16300631015589eb65",
+      "1630063768bdfa2f5f",
+      "1630070175c6ebb320",
+      "163032369225153039",
+      "163032806406e9f003",
+      "1630331223d20499c6",
+      "1638777517a2c17ba0",
+      "1630404145a76c9e4d",
+      "1630409395746d29de",
+      "16334458477be6bcd8"
+    ]
+  }
+}
