@@ -5636,6 +5636,7 @@ cite {
 
   a {
     color: $colorAnnouncementText;
+    margin-top:5px;
   }
 
   .rte {
@@ -7195,6 +7196,16 @@ margin: 0 0.3rem;
 .radio-wrapper {
   @include screenUp($postSmall) {
     @include flex(50%);
+  }
+  .not-select{
+    #not_select-m{ 
+      background: rgba(tomato,0.8);
+      color:white;
+      border: 1px solid darken(tomato, 20%);
+      padding: 5px 15px;
+      font-size:1rem;
+      border-radius:3px;
+    }
   }
 }
 

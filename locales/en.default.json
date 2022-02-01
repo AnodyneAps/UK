@@ -355,6 +355,9 @@
     "radios": {
       "radio-one": " Buy ",
       "radio-save-amount": "Save"
+    },
+    "sizes": {
+      "choose-size-message": "Please select your size"
     }
   },
   "gift_cards": {

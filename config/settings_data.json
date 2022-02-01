@@ -21,14 +21,15 @@
     "border_radius": 1,
     "button_padding_x": 30,
     "button_padding_y": 15,
-    "top_button_mobile": true,
+    "show_top_button": false,
+    "top_button_mobile": false,
     "top_button_position": "right",
     "page_wrapper": "1248",
     "payment_icon_size": 24,
     "sale_type": "percentage",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#444444",
+    "color_announcement_bg": "#ff891d",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -239,6 +240,109 @@
       },
       "dbtfy-cart-upsell": {
         "type": "dbtfy-cart-upsell",
+        "blocks": {
+          "fce41502-3ad2-4656-bb30-c5952add40c4": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "activeposture-bra",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "0a95bf79-f9a0-499c-bfa2-4eb287dd201b": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-black",
+              "dbtfy_cart_specific_upsell_product_offer": "",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "60627446-af20-476e-8fbb-70f9c79f615f": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-black",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "f7222529-9e00-4b5d-a67f-2a1fe2301af5": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-white",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "ad31419c-659c-40cc-b9cb-43d48c9b2af2": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-white",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "bb7d09c7-4d25-4790-832f-9c562cf76de3": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-black",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "249a527c-a52a-4733-9dd1-e39655283247": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-black",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "a133a957-46a3-4214-a2ae-36a1890b03ce": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-black",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "20a3d2a7-0600-47fb-9602-993e4f9bd809": {
+            "type": "cart-item-upsell",
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          }
+        },
+        "block_order": [
+          "fce41502-3ad2-4656-bb30-c5952add40c4",
+          "0a95bf79-f9a0-499c-bfa2-4eb287dd201b",
+          "60627446-af20-476e-8fbb-70f9c79f615f",
+          "f7222529-9e00-4b5d-a67f-2a1fe2301af5",
+          "ad31419c-659c-40cc-b9cb-43d48c9b2af2",
+          "bb7d09c7-4d25-4790-832f-9c562cf76de3",
+          "249a527c-a52a-4733-9dd1-e39655283247",
+          "a133a957-46a3-4214-a2ae-36a1890b03ce",
+          "20a3d2a7-0600-47fb-9602-993e4f9bd809"
+        ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
         }
@@ -297,7 +401,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.activeposture.co.uk\/pages\/game\" title=\"https:\/\/www.activeposture.co.uk\/pages\/game\">Spin the wheel and get a discount! <span style=\"text-decoration:underline\"><strong>CLICK HERE<\/strong><\/span><\/a><\/p>",
+              "announcement_text": "<p><a href=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\" title=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\"><strong>Click here and save up to 25%<\/strong><\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -442,7 +546,7 @@
               "logo_width": 150,
               "title": "Contact",
               "subtitle": "",
-              "text": "<p>ActivePosture.co.uk<\/p><p><strong>Mon. - Fri:<\/strong> 9am. - 9pm.<\/p><p><strong>Sat. - Sun:<\/strong> 8am. - 2pm.<br\/><\/p>",
+              "text": "<p>ActivePosture.co.uk<\/p><p><strong>Mon. - Thurs: <\/strong>9am. -3pm.<\/p><p><strong>Fri:<\/strong> 9am. -2pm.<br\/><\/p>",
               "email": true,
               "phone": true
             }
@@ -691,10 +795,12 @@
           "image_position": "center center",
           "video_title": "<span class=\"first\">ActivePosture®<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>We improve your posture! More than 500,000 satisfied customers worldwide<\/strong><\/p>",
+          "text_description": "<p><strong>We improve your posture! More than 300,000 satisfied customers across Europe<\/strong><\/p>",
           "text_description_size": "medium",
-          "button_label": "See products",
-          "button_link": "shopify:\/\/collections\/all-products",
+          "button_label": "Men",
+          "button_link": "shopify:\/\/collections\/men",
+          "second_button_label": "women",
+          "second_button_link": "shopify:\/\/collections\/women",
           "show_scrolldown": true
         }
       },
@@ -1509,23 +1615,6 @@
           "image_position": "center center"
         }
       },
-      "1637138319670a8228": {
-        "type": "featured-image",
-        "disabled": true,
-        "settings": {
-          "show_on_desktop": true,
-          "show_on_mobile": true,
-          "full_width": true,
-          "image": "shopify:\/\/shop_images\/bf.jpg",
-          "section_style": "section-blank",
-          "wrapper__height": 500,
-          "image_title": "<p>BLACK<strong> DAYS<\/strong><\/p>",
-          "image_subtitle": "<p>All products are on sale! <strong>Save up to -50%<\/strong><\/p>",
-          "image_btntext": "LEARN MORE",
-          "image_link": "shopify:\/\/collections\/all-products",
-          "show_on_image_scrolldown": true
-        }
-      },
       "list-collections-template": {
         "type": "list-collections-template",
         "settings": {
@@ -1585,7 +1674,6 @@
       }
     },
     "content_for_index": [
-      "1637138319670a8228",
       "16300631015589eb65",
       "1630063768bdfa2f5f",
       "1630070175c6ebb320",
