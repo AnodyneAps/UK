@@ -121,6 +121,7 @@
     "dbtfy_cookie_box_button_label": "Acceptér cookies",
     "dbtfy_inactive_tab_message_text_first": "👕 up to 50% off",
     "dbtfy_inactive_tab_message_text_second": "👕 Anodyne discounts",
+    "dbtfy_infinite_scroll_options": "scroll",
     "dbtfy_inventory_quantity_threshold": 20,
     "dbtfy_menu_bar_link_list": "main-menu",
     "dbtfy_menu_bar_mobile": false,
@@ -243,6 +244,7 @@
         "blocks": {
           "fce41502-3ad2-4656-bb30-c5952add40c4": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
@@ -253,6 +255,7 @@
           },
           "0a95bf79-f9a0-499c-bfa2-4eb287dd201b": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
@@ -263,6 +266,7 @@
           },
           "60627446-af20-476e-8fbb-70f9c79f615f": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
@@ -273,6 +277,7 @@
           },
           "f7222529-9e00-4b5d-a67f-2a1fe2301af5": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
@@ -283,6 +288,7 @@
           },
           "ad31419c-659c-40cc-b9cb-43d48c9b2af2": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
@@ -293,6 +299,7 @@
           },
           "bb7d09c7-4d25-4790-832f-9c562cf76de3": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
@@ -303,6 +310,7 @@
           },
           "249a527c-a52a-4733-9dd1-e39655283247": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
@@ -313,6 +321,7 @@
           },
           "a133a957-46a3-4214-a2ae-36a1890b03ce": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
@@ -323,6 +332,7 @@
           },
           "20a3d2a7-0600-47fb-9602-993e4f9bd809": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
