@@ -72,6 +72,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": false,
     "dbtfy_cart_favicon": false,
+    "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -95,6 +96,8 @@
     "dbtfy_shop_protect": false,
     "dbtfy_skip_cart": false,
     "dbtfy_size_chart": false,
+    "dbtfy_social_discount": false,
+    "dbtfy_sticky_addtocart": false,
     "synced_variant_image": false,
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
@@ -111,7 +114,8 @@
     "dbtfy_cart_discount_label": "Discount code or gift card?",
     "dbtfy_cart_discount_placeholder": "Enter the code here",
     "dbtfy_cart_discount_apply_button_label": "Redeem code",
-    "nlify_cart_notification": "Have you chosen the right size? Remember to check the size guide before purchasing.",
+    "nlify_cart_notification": "Buy more, save more! We offer bulk pricing discounts on all our products. You can of course combine bulk pricing with discount codes as well!",
+    "nlify_custom_drawer_icon": "",
     "dbtfy_cart_goal_before_text": "Still",
     "dbtfy_cart_goal_amount": "0",
     "dbtfy_cart_goal_after_text": "to go for free shipping!",
@@ -159,6 +163,7 @@
     "dbtfy_social_discount_reward_button": "Redeem discount",
     "dbtfy_social_discount_reward_code": "20GWS15",
     "dbtfy_social_discount_reward_amount": "10",
+    "dbtfy_trust_badge_cart": false,
     "dbtfy_trust_badge_text": "Easy, fast and secure payment",
     "dbtfy_wish_list_add_text": "Add to wishlist",
     "dbtfy_wish_list_remove_text": "Remove from wishlist",
@@ -411,7 +416,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\" title=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\"><strong>Click here and save up to 25%<\/strong><\/a><\/p>",
+              "announcement_text": "<p><a href=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\" title=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\"><strong>Want up to 25% discount? <\/strong><span style=\"text-decoration:underline\"><strong>Click here<\/strong><\/span><\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
