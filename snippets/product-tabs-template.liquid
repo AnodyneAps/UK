@@ -581,15 +581,13 @@
                               {%- elsif  product.handle ==  "posture-brace-basic" -%}
                               {%- render "a1-basic-brace-radios" -%}
                               {%- elsif  product.handle ==  "lumbar-support-belt" -%}
-                              {%- render "a5-backbrace-radios" -%}
-                                     {% comment %} 
+                              {%- render "a5-backbrace-radios" -%}          
                               {%- elsif  product.handle ==  "activeposture-bra" -%}
                               {%- render "a6-bra-radios" -%}      
-                              {% endcomment %}
+                      
                               {%- endif -%}
                           <!-- manual Qb check end  -->
                           {%- endif -%}
-
 
                           {%- render "dbtfy-inventory-quantity", product: product -%}
                           {%- if section.settings.quantity_enabled -%}
@@ -602,10 +600,8 @@
                                          {%- assign hide_quantity_box = false -%}
                                  {%- elsif  product.handle == "lumbar-support-belt" -%}
                                          {%- assign hide_quantity_box = false -%}
-                                  {% comment %}
                                  {%- elsif product.handle == "activeposture-bra" -%}
                                          {%- assign hide_quantity_box = false -%}
-                                  {% endcomment %}
                                  {%- else -%}
                                      {%- render "quantity-selector", type: "product", id: quantity_id -%}
                                  {%- endif -%}
@@ -850,7 +846,7 @@
           </div>
         </div>
 {%- endif -%}
-              <!-- end of product tabs end  -->
+<!-- end of product tabs end  -->
 
 
 {%- render "dbtfy-addtocart-animation" -%}
