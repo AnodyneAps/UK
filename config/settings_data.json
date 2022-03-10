@@ -70,7 +70,7 @@
     "base_font_size": 15,
     "custom_quantity_breaks": true,
     "dbtfy_back_in_stock": true,
-    "dbtfy_cart_countdown": false,
+    "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
     "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
@@ -111,6 +111,9 @@
     "dbtfy_back_in_stock_success": "<p>We will send you an e-mail as soon as the product is back in stock<\/p>",
     "dbtfy_back_in_stock_body_prefix": "Notify me when",
     "dbtfy_back_in_stock_body_suffix": "is available again -",
+    "dbtfy_cart_countdown_time_mins": 20,
+    "dbtfy_cart_countdown_suffix": "Order before it is too late!",
+    "dbtfy_cart_countdown_icon_over": "update",
     "dbtfy_cart_discount_label": "Discount code or gift card?",
     "dbtfy_cart_discount_placeholder": "Enter the code here",
     "dbtfy_cart_discount_apply_button_label": "Redeem code",
@@ -252,7 +255,7 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "activeposture-bra",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -263,9 +266,9 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-black",
-              "dbtfy_cart_specific_upsell_product_offer": "",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
@@ -274,7 +277,7 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -285,7 +288,7 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-white",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -296,7 +299,7 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-white",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -307,7 +310,7 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -318,7 +321,7 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -329,7 +332,7 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -340,10 +343,21 @@
             "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Save 50% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
+            }
+          },
+          "d504e811-e60e-43a1-bc1b-3757fcab99f8": {
+            "type": "cart-item-upsell",
+            "disabled": true,
+            "settings": {
+              "dbtfy_cart_upsell_replace_item": "add",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_product_trigger": "lumbar-support-belt",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_btn_title": "Yes, please"
             }
           }
         },
@@ -356,7 +370,8 @@
           "bb7d09c7-4d25-4790-832f-9c562cf76de3",
           "249a527c-a52a-4733-9dd1-e39655283247",
           "a133a957-46a3-4214-a2ae-36a1890b03ce",
-          "20a3d2a7-0600-47fb-9602-993e4f9bd809"
+          "20a3d2a7-0600-47fb-9602-993e4f9bd809",
+          "d504e811-e60e-43a1-bc1b-3757fcab99f8"
         ],
         "settings": {
           "dbtfy_cart_upsell_button_style": "btn--primary"
@@ -417,7 +432,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Deal of the week ends in:<\/p>",
-              "announcement_counter": "Mar 7, 2022 23:59:59",
+              "announcement_counter": "Mar 13, 2022 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
@@ -1462,7 +1477,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "I have received the wrong product. What do I do?",
-              "text": "<p>ActivePosture’s dispatch team is packing thousands of products a year and unfortunately, it can<br\/>happen that you get a wrong product, for instance, pullover shirt, even if you have ordered one with a zipper. We are naturally very sorry about that. Errors like these cost us money as we have to pay for all shipments, so we are doing<br\/>our very best to avoid these mistakes. If you are one of the unlucky ones to whom this has happened, please do use the pre-paid label in your package and return the product together with the return form indicating your name, order number and reason for exchange (simply stating that we shipped you the wrong product) and we will prioritise getting a new product shipped to you with no<br\/>delay.<\/p>"
+              "text": "<p>ActivePosture’s dispatch team is packing thousands of products a year and unfortunately, it can<br\/>happen that you get a wrong product, for instance, pullover shirt, even if you have ordered one with a zipper. We are naturally very sorry about that. Errors like these cost us money as we have to pay for all shipments, so we are doing our very best to avoid these mistakes. If you are one of the unlucky ones to whom this has happened, please press this link: <a href=\"https:\/\/activeposture.returns.international\/\" title=\"https:\/\/activeposture.returns.international\/\"><strong>https:\/\/activeposture.returns.international<\/strong><\/a> and follow the steps for easy return. We will prioritise getting a new product shipped to you with no delay.<\/p>"
             }
           },
           "a4fb568f-5eb5-47fd-9de0-caef948745df": {
@@ -1505,7 +1520,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Can I return the product(s) I have ordered?",
-              "text": "<p>We offer a 30-day return policy. What that means is that within the first 30 days you can<br\/>return what you have ordered and get a full refund. You can use the return label we provided in your original shipment. Please do fill out the return form with your name, order number and with information that you want to return the product for a refund or that you want to exchange the product for a different size or different product.<\/p>"
+              "text": "<p>We offer a 30-day return policy. What that means is that within the first 30 days you can<br\/>return what you have ordered and get a full refund. please press this link: <a href=\"https:\/\/activeposture.returns.international\/\" title=\"https:\/\/activeposture.returns.international\/\"><strong>https:\/\/activeposture.returns.international<\/strong><\/a> and follow the steps for easy return.<\/p>"
             }
           },
           "94547239-64d8-49d3-9ca9-0f9588c84671": {
@@ -1514,7 +1529,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Do I have to pay when I want to exchange something within my 30-day trial period?",
-              "text": "<p>Shipping your product back is free of charge. A pre-paid label can be found in your packaging. In most cases, exchanges are just done to a different size for the same product and no refunds or extra payment is needed. If you are exchanging<br\/>to a cheaper product, then we will create a refund for the difference. If you want to exchange your product for a more expensive item, you need to return your current product for a refund and can then order the product you want from<br\/>our website.<\/p>"
+              "text": "<p>Shipping your product back is free of charge. Please press this link: <a href=\"https:\/\/activeposture.returns.international\/\" title=\"https:\/\/activeposture.returns.international\/\"><strong>https:\/\/activeposture.returns.international<\/strong><\/a> and follow the steps for easy exchange. In most cases, exchanges are just done to a different size for the same product and no refunds or extra payment is needed. If you are exchanging to a cheaper product, then we will create a refund for the difference. If you want to exchange your product for a more expensive item, you need to return your current product for a refund and you can then order the product you want from our website.<\/p>"
             }
           },
           "7f15f122-e418-4f58-8ea3-f4b218761da0": {
@@ -1523,7 +1538,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "How do I return my order?",
-              "text": "<p>Fill out the return form with your name, order number and with information that you want to return<br\/>the product for a refund or that you want to exchange the product for a different size or different product. Please use the pre-paid return label we provided in your original shipment.<\/p>"
+              "text": "<p>Please press this link:<a href=\"https:\/\/activeposture.returns.international\/\" title=\"https:\/\/activeposture.returns.international\/\"><strong>https:\/\/activeposture.returns.international<\/strong><\/a> and follow the steps for easy return.<\/p>"
             }
           },
           "0e28a17a-8e36-491c-8c64-2c5098b9d3c4": {
@@ -1532,7 +1547,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Do I pay for returning or exchanging a product?",
-              "text": "<p>No, we are providing you with a pre-paid label (make sure to keep it for the entire 30-day<br\/>trial period as we are not able to provide you with a 2nd label). Place the label on the packaging you received from us and be sure to include the return<br\/>form with your name, order number and reason for return (refund or exchange) and we will see to it that your request is being met.<\/p>"
+              "text": "<p>No, we are paying for the refund.  Please press this link: <a href=\"https:\/\/activeposture.returns.international\/\" title=\"https:\/\/activeposture.returns.international\/\"><strong>https:\/\/activeposture.returns.international<\/strong><\/a> and follow the steps for easy return. <\/p>"
             }
           },
           "5e725c8e-afa6-4af3-a42f-6ca06c20eea2": {
