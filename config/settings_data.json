@@ -57,6 +57,12 @@
     "color_transparent_nav_text": "#f7f7f7",
     "opacity_overlay": 16,
     "favicon": "shopify:\/\/shop_images\/Favicon_08d030ad-355c-4928-9bc1-3e1e6a150b4e.png",
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "share_whatsapp": false,
+    "share_email": false,
+    "share_messenger": false,
     "social_facebook_link": "https:\/\/www.facebook.com\/activeposture.co.uk\/",
     "social_instagram_link": "https:\/\/www.instagram.com\/activeposture.co.uk\/",
     "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCFLDlWEPVUrvsuNjVt6sXJg",
@@ -69,6 +75,7 @@
     "base_family": "avenir_next_n4",
     "base_font_size": 15,
     "custom_quantity_breaks": true,
+    "dbtfy_agree_to_terms": true,
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
@@ -102,7 +109,7 @@
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 15,
-    "dbtfy_agree_text": "<p>I accept the terms and conditions<\/p>",
+    "dbtfy_agree_text": "<p>I accept the terms & conditions<\/p>",
     "dbtfy_agree_warning_text": "<p>You must accept our terms and conditions<\/p>",
     "dbtfy_agree_order_title": "I accept the terms and conditions",
     "dbtfy_back_in_stock_richtext": "<p>Notify me when the product is back in stock<\/p>",
@@ -117,7 +124,7 @@
     "dbtfy_cart_discount_label": "Discount code or gift card?",
     "dbtfy_cart_discount_placeholder": "Enter the code here",
     "dbtfy_cart_discount_apply_button_label": "Redeem code",
-    "nlify_cart_notification": "Buy more, save more! We offer bulk pricing discounts on all our products. You can of course combine bulk pricing with discount codes as well!",
+    "nlify_cart_notification": "<strong>Our guarantee:<\/strong> We offer a 30 day no-nonsense return policy + free return shipping. We always want you to be 100% happy with your purchase!",
     "nlify_custom_drawer_icon": "",
     "dbtfy_cart_goal_before_text": "Still",
     "dbtfy_cart_goal_amount": "0",
@@ -252,111 +259,101 @@
         "blocks": {
           "fce41502-3ad2-4656-bb30-c5952add40c4": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "activeposture-bra",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "0a95bf79-f9a0-499c-bfa2-4eb287dd201b": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-black",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "60627446-af20-476e-8fbb-70f9c79f615f": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-black",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "f7222529-9e00-4b5d-a67f-2a1fe2301af5": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-white",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "ad31419c-659c-40cc-b9cb-43d48c9b2af2": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-white",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "bb7d09c7-4d25-4790-832f-9c562cf76de3": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-black",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "249a527c-a52a-4733-9dd1-e39655283247": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-black",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "a133a957-46a3-4214-a2ae-36a1890b03ce": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-black",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "20a3d2a7-0600-47fb-9602-993e4f9bd809": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
             }
           },
           "d504e811-e60e-43a1-bc1b-3757fcab99f8": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 43% on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save 20% on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "lumbar-support-belt",
-              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "Yes, please"
             }
           }
@@ -431,8 +428,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Deal of the week ends in:<\/p>",
-              "announcement_counter": "Mar 13, 2022 23:59:59",
+              "announcement_text": "<p><a href=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\" title=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\"><span style=\"text-decoration:underline\"><strong>CLICK HERE<\/strong><\/span><strong> and get up to -30% discount<\/strong><\/a><\/p>",
+              "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
@@ -1511,7 +1508,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Can I exchange my ordered product(s)?",
-              "text": "<p>Yes, if you are still in your 30-day trial period. Fill out the return form with your name, order number and the size you want to exchange to, and we will process this as soon as possible after we have received the package. Once you receive your new product, a new 30-day trial period starts. If you have any doubt about your size, then don’t hesitate to contact our customer service team so they can help you pick the correct size so you can avoid multiple exchanges!<\/p>"
+              "text": "<p>Yes, if you are still in your 30-day trial period. It is always free to exchange your order. Just press this link:<strong> <\/strong><a href=\"https:\/\/activeposture.returns.international\/lite\" title=\"https:\/\/activeposture.returns.international\/lite\"><strong>https:\/\/activeposture.returns.international\/lite<\/strong><\/a><strong>.<\/strong> Follow the steps for easy return. If any questions regarding the return process, please don't hesitate to reach out to us at <a href=\"mailto:info@activeposture.co.uk\">info@activeposture.co.uk<\/a>. Once you receive your new product, a new 30-day trial period starts. If you have any doubt about your size, then don’t hesitate to contact our customer service team so they can help you pick the correct size so you can avoid multiple exchanges!<\/p>"
             }
           },
           "5ccc6c42-e193-4781-b245-1a612fe8b76d": {
