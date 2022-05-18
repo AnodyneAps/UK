@@ -27,6 +27,7 @@
     "page_wrapper": "1248",
     "payment_icon_size": 24,
     "sale_type": "percentage",
+    "browsing_link": "shopify:\/\/collections\/all-products",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
     "color_announcement_bg": "#ff891d",
@@ -109,7 +110,7 @@
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 15,
-    "dbtfy_agree_text": "<p>I accept the terms & conditions<\/p>",
+    "dbtfy_agree_text": "<p>I accept the <a href=\"https:\/\/www.activeposture.co.uk\/policies\/terms-of-service\" title=\"https:\/\/www.activeposture.co.uk\/policies\/terms-of-service\">terms & conditions<\/a><\/p>",
     "dbtfy_agree_warning_text": "<p>You must accept our terms and conditions<\/p>",
     "dbtfy_agree_order_title": "I accept the terms and conditions",
     "dbtfy_back_in_stock_richtext": "<p>Notify me when the product is back in stock<\/p>",
@@ -261,7 +262,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "activeposture-bra",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -271,7 +272,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -281,7 +282,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -291,7 +292,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-white",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -301,7 +302,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-white",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -311,7 +312,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -321,7 +322,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -331,7 +332,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-black",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -341,7 +342,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "yes, please"
@@ -351,7 +352,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £5.00 on a Shoulder Support Basic (norm. price £34.95)",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal of the week! <\/strong>Save £10.00 on a Shoulder Support Basic (norm. price £34.95)",
               "dbtfy_cart_specific_upsell_product_trigger": "lumbar-support-belt",
               "dbtfy_cart_specific_upsell_product_offer": "posture-brace-basic",
               "dbtfy_cart_specific_upsell_btn_title": "Yes, please"
@@ -428,7 +429,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\" title=\"https:\/\/www.activeposture.co.uk\/pages\/discount-code\"><span style=\"text-decoration:underline\"><strong>CLICK HERE<\/strong><\/span> and get a discount code<\/a><\/p>",
+              "announcement_text": "<p><a href=\"\/collections\/all-products\" title=\"All products\"><strong>SPRING SALE!<\/strong> Save up to <span style=\"text-decoration:underline\">50%<\/span><\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -500,7 +501,7 @@
               "image": "shopify:\/\/shop_images\/Truck.png",
               "guarantee_icon": "loyalty",
               "title": "",
-              "text": "<p>Fast delivery with Royal Mail<\/p>",
+              "text": "<p>Free and fast delivery<\/p>",
               "button_style": "btn-outline-primary",
               "button_label": "",
               "button_link": ""
@@ -838,7 +839,7 @@
             "type": "service",
             "settings": {
               "title": "Fast Delivery",
-              "description": "We pay all standard delivery costs and ship with Royal Mail",
+              "description": "We pay all standard delivery costs and ship with Royal Mail or Hermes",
               "icon": "shopify:\/\/shop_images\/Truck.png",
               "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
             }
@@ -1188,7 +1189,7 @@
             "settings": {
               "card__icon": "shopify:\/\/shop_images\/Truck.png",
               "title": "Fast Shipping",
-              "text": "<p>We always ship your parcel with Royal Mail directly to your door. The standard delivery time is usually around 24-48 hours.<\/p>",
+              "text": "<p>We always ship your parcel with Royal Mail or Hermes directly to your door. The standard delivery time is usually around 24-48 hours.<\/p>",
               "card__alignement": "center",
               "text_alignment": "text-center",
               "type_row": "",

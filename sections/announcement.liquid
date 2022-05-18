@@ -25,6 +25,7 @@
       
             {%- unless block.settings.announcement_text == blank -%}
               <div class="announcement-message"> 
+                <span>{%- render 'icon' with {{block.settings.icon_selector}} -%}</span>
               {{ block.settings.announcement_text }}
             </div>
             {%- endunless -%}
@@ -135,6 +136,46 @@
             "id": "announcement_text",
             "label": "Text",
             "default": "<p>Free shipping worldwide | 30-Day free returns</p>"
+          },
+          {
+            "type": "select",
+            "id": "icon_selector",
+            "label": "Select icon",
+            "options": [
+              {
+                "value": "truck",
+                "label": "Truck"
+              },
+              {
+                "value": "checkmark",
+                "label": "Checkmark"
+              },
+              {
+                "value": "return",
+                "label": "Return"
+              },
+              {
+                "value": "smily",
+                "label": "Smily"
+              },
+              {
+                "value": "cards",
+                "label": "Cards"
+              },
+              {
+                "value": "heart",
+                "label": "Customer service"
+              },
+              {
+                "value": "headphones",
+                "label": "Customer service headphones"
+              },
+              {
+                "value": "star",
+                "label": "Star"
+              }
+            ],
+            "default": "star"
           },
           {
             "type": "text",
