@@ -429,15 +429,49 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"\/collections\/all-products\" title=\"All products\"><strong>SPRING SALE!<\/strong> Save up to <span style=\"text-decoration:underline\">50%<\/span><\/a><\/p>",
+              "announcement_text": "<p>Fast and free delivery <\/p>",
+              "icon_selector": "truck",
               "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "f5cb7364-cf39-4fd4-a8a5-cb28441ce06f": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Free and easy return<\/p>",
+              "icon_selector": "return",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "49eab205-26d7-401e-b601-3ea87e4e8621": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Try it for 30 days<\/p>",
+              "icon_selector": "checkmark",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "1d459920-e35d-4de2-90da-ff25120ec6a1": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>All orders are shipped from UK<\/p>",
+              "icon_selector": "smily",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
           }
         },
         "block_order": [
-          "announcement-0"
+          "announcement-0",
+          "f5cb7364-cf39-4fd4-a8a5-cb28441ce06f",
+          "49eab205-26d7-401e-b601-3ea87e4e8621",
+          "1d459920-e35d-4de2-90da-ff25120ec6a1"
         ],
         "settings": {
           "show_announcement": true,
@@ -823,7 +857,7 @@
           "image_position": "center center",
           "video_title": "<span class=\"first\">ActivePosture®<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>We improve your posture! More than 300,000 satisfied customers across Europe<\/strong><\/p>",
+          "text_description": "<p><strong>SPRING SALE!<\/strong> Save up to <span style=\"text-decoration:underline\">50%<\/span><\/p>",
           "text_description_size": "medium",
           "button_label": "Men",
           "button_link": "shopify:\/\/collections\/men",

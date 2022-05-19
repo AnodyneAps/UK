@@ -25,7 +25,9 @@
       
             {%- unless block.settings.announcement_text == blank -%}
               <div class="announcement-message"> 
-                <span>{%- render 'icon' with {{block.settings.icon_selector}} -%}</span>
+                {% unless block.settings.icon_selector == 'none' %}
+                  <span>{%- render 'icon' with {{block.settings.icon_selector}} -%}</span>
+               {% endunless %}
               {{ block.settings.announcement_text }}
             </div>
             {%- endunless -%}
@@ -142,41 +144,49 @@
             "id": "icon_selector",
             "label": "Select icon",
             "options": [
-              {
-                "value": "truck",
-                "label": "Truck"
-              },
-              {
-                "value": "checkmark",
-                "label": "Checkmark"
-              },
-              {
-                "value": "return",
-                "label": "Return"
-              },
-              {
-                "value": "smily",
-                "label": "Smily"
-              },
-              {
-                "value": "cards",
-                "label": "Cards"
-              },
-              {
-                "value": "heart",
-                "label": "Customer service"
-              },
-              {
-                "value": "headphones",
-                "label": "Customer service headphones"
-              },
-              {
-                "value": "star",
-                "label": "Star"
-              }
-            ],
-            "default": "star"
-          },
+            {
+              "value": "none",
+              "label": "None"
+            },
+            {
+              "value": "truck",
+              "label": "Truck"
+            },
+            {
+              "value": "checkmark",
+              "label": "Checkmark"
+            },
+            {
+              "value": "return",
+              "label": "Return"
+            },
+            {
+              "value": "smily",
+              "label": "Smily"
+            },
+            {
+              "value": "discount",
+              "label": "Discount"
+            },
+            {
+              "value": "cards",
+              "label": "Cards"
+            },
+            {
+              "value": "heart",
+              "label": "Customer service"
+            },
+            {
+              "value": "headphones",
+              "label": "Customer service headphones"
+            },
+            {
+              "value": "star",
+              "label": "Star"
+            }
+          ],
+          "default": "none"
+        },
           {
             "type": "text",
             "id": "announcement_counter",

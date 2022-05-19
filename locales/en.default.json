@@ -322,7 +322,7 @@
       "regular_price": "Regular price",
       "include_taxes": "Tax included.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
-      "unit_price": "Unit price"
+      "unit_price": "Amount"
     },
     "product": {
       "sold_out": "Sold Out",
@@ -353,7 +353,7 @@
       "tab-delivery": " Delivery & return "
     },
     "radios": {
-      "radio-one": " Buy ",
+      "radio-one": "",
       "radio-save-amount": "Save"
     },
     "sizes": {
