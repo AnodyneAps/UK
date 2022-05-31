@@ -5688,28 +5688,33 @@ cite {
   }
 }
 .announcement-message-item{
+  transition: left 300ms ease-in;
   .announcement-message{
     display: flex;
     justify-content: center;
     align-items:center;
-    gap:.25em;
-    .Icon{
-      margin-right: 5px;
-      margin-top: -4px;
-      height: 18px;
-      width: auto;
-    }
+    gap: .35rem;
+      .Icon-wrapper{
+        height: 20px;
+        width: 20px;
+        .Icon{
+          display: inline-block;
+          height: 20px;
+          width: 20px;
+        }
+      }
     p{
-      padding-top:15px;
+      padding-top:18px;
       font-size:.999rem;
       font-weight:500;
       strong{
-        color:$white;
+        color:$cAccent;
       }
     }
   }
   .announcement_counter{
     .announcement_number{
+
       .digit{
         font-size:0.850rem;
         font-weight:900;
