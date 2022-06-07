@@ -284,8 +284,22 @@
 	})();
 </script>
 <!-- End of Sleeknote signup and lead generation tool - www.sleeknote.com -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2WL0TX2MC3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2WL0TX2MC3');
+</script>
+
+
 {% render 'vitals-loader' %}
-{% include 'kart_discount' %}</head>
+{% include 'kart_discount' %}
+  
+  </head>
 
   <body id="{{ page_title | handle }}"
         class="{% if settings.sticky_header %}sticky-header{% endif %}
