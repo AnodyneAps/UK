@@ -1,9 +1,7 @@
   <!-- custom input radio buttons -->
-
 	<div class="radio  product-single__form product-form__item">
 		<input type="radio" class="single-option-selector-{{ section.id }} "
 		{% if option.selected_value == value %} checked="checked"{% endif %} id="Quantity-1" name="quantity" value="1" min="1" class="product-form__input" pattern="[0-9]*">
-
 		<label for="Quantity-1">{{ 'products.radios.radio-one' | t }} 1: 
 			<span class="qb-radio text-money">
 				<span class="qb-discounted-price on-sale text-sale">
@@ -16,11 +14,9 @@
 						549,00 kr
 					</span>
 				</span>
-				{%- comment -%}
 				<span class="badge qb-saved-amount">
 					{{ 'products.radios.radio-save-amount' | t }}  <span class="money">18%</span>
 				</span>
-				{%- endcomment -%}
 			</span>
 		</label>
 		</div>
@@ -39,11 +35,10 @@
 						1.098,00 kr
 					</span>
 				</span>
-				{%- comment -%}
+
 				<span class="badge qb-saved-amount">
 					{{ 'products.radios.radio-save-amount' | t }}  <span class="money">27%</span>
 				</span>
-				{%- endcomment -%}
 			</span>
 		</label>
 	</div>
@@ -62,11 +57,10 @@
 						1.647,00 kr
 					</span>
 				</span>
-				{%- comment -%}
+
 				<span class="badge qb-saved-amount">
 					{{ 'products.radios.radio-save-amount' | t }} <span class="money">36%</span>
 				</span>
-				{%- endcomment -%}
 			</span>
 		</label>
 	</div>

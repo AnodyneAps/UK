@@ -3,8 +3,6 @@
 	<div class="radio  product-single__form product-form__item">
 		<input type="radio" class="single-option-selector-{{ section.id }} "
 		{% if option.selected_value == value %} checked="checked"{% endif %} id="Quantity-1" name="quantity" value="1" min="1" class="product-form__input" pattern="[0-9]*">
-
-		
 		<label for="Quantity-1">{{ 'products.radios.radio-one' | t }} (1) Single-pack: 
 			<span class="qb-radio text-money">
 				<span class="qb-discounted-price on-sale text-sale">
@@ -17,16 +15,13 @@
 						£ 39.95
 					</span>
 				</span>
-				{%- comment -%}
 				<span class="badge qb-saved-amount">
 					{{ 'products.radios.radio-save-amount' | t }}  <span class="money">£ 10.00</span>
 				</span>
-				{%- endcomment -%}
 			</span>
 		</label>
 		</div>
 	<div class="radio product-single__form product-form__item">
-
 		<input type="radio" class="single-option-selector-{{ section.id }} "
 	id="Quantity-2" name="quantity" value="2" min="2" class="product-form__input" pattern="[0-9]*">
 		<label for="Quantity-2">{{ 'products.radios.radio-one' | t }} (2) Duo-pack: 
@@ -41,11 +36,9 @@
 						£ 79.90
 					</span>
 				</span>
-				{%- comment -%}
 				<span class="badge qb-saved-amount">
 					{{ 'products.radios.radio-save-amount' | t }}  <span class="money">£ 29.95</span>
 				</span>
-				{%- endcomment -%}
 			</span>
 		</label>
 	</div>
@@ -64,11 +57,9 @@
 						£ 119.85
 					</span>
 				</span>
-				{%- comment -%}
 				<span class="badge qb-saved-amount">
 					{{ 'products.radios.radio-save-amount' | t }} <span class="money">£ 49.90</span>
 				</span>
-				{%- endcomment -%}
 			</span>
 		</label>
 	</div>
