@@ -640,7 +640,9 @@
           "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>ActivePosture Ltd., c\/o DSV Accounting & Business Services, Suite 23 Colworth House, Colworth Park, Sharnbrook, Bedford MK44 1LZ, United Kingdom. <br\/><br\/>Company reg. number: 11314103.<br\/><\/p>"
+          "custom_credential": "<p>ActivePosture Ltd., c\/o DSV Accounting & Business Services, Suite 23 Colworth House, Colworth Park, Sharnbrook, Bedford MK44 1LZ, United Kingdom. <br\/><br\/>Company reg. number: 11314103.<br\/><\/p>",
+          "bottom_counter_text": "We send your package in",
+          "show_bottom_counter": true
         }
       },
       "product-template": {
